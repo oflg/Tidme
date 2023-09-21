@@ -1,7 +1,7 @@
 {
     "name": "tidme",
     "version": "1.0.0",
-    "description": " Lifelong knowledge, deep in mind.终身知识，深入脑海 。",
+    "description": " Lifelong knowledge, deep in mind.",
     "scripts": {
         "serve-manual": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js editions/manual/index --listen",
         "serve-manual-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js  editions/manual/zh-Hans --listen",

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oflg.github.io/Tidme/zh-Hans">
-    <img src="https://oflg.github.io/Tidme/icon.png" width="150" height="150" alt="Tidme">
+    <img src="https://oflg.github.io/Tidme/favicon.png" width="150" height="150" alt="Tidme">
   </a>
 </p>
 
@@ -61,4 +61,4 @@ _✨ 终身知识，深入脑海  ✨_
 
 ## ⭐亮星
 
-[![星数随时间变化](https://starchart.cc/oflg/Tidme.svg)](https://github.com/oflg/Tidme/stargazers)
+[![亮星历史图](https://api.star-history.com/svg?oflg/Tidme&type=Date)](https://star-history.com/#oflg/Tidme&Date)

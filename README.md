@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oflg.github.io/Tidme/">
-    <img src="https://oflg.github.io/Tidme/icon.png" width="150" height="150" alt="Tidme">
+    <img src="https://oflg.github.io/Tidme/favicon.png" width="150" height="150" alt="Tidme">
   </a>
 </p>
 
@@ -61,4 +61,4 @@ Many thanks to the following friends who have contributed to Tidme!
 
 ## ⭐Star
 
-[![Stargazers over time](https://starchart.cc/oflg/Tidme.svg)](https://github.com/oflg/Tidme/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?oflg/Tidme&type=Date)](https://star-history.com/#oflg/Tidme&Date)
