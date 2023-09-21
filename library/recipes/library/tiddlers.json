@@ -1,0 +1,47 @@
+[
+    {
+        "author": "oflg",
+        "core-version": ">=5.3.0",
+        "description": "TiddlyWiki-based memory programme using advanced FSRS algorithm",
+        "list": "readme license",
+        "name": "Tidme Core",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/Tidme",
+        "title": "$:/plugins/tidme/fsrs4tw",
+        "version": "1.0.0",
+        "dependents": "",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans]] 查看安装使用教程。",
+        "requires-reload": "yes"
+    },
+    {
+        "author": "oflg",
+        "core-version": ">=5.2.3",
+        "dependents": "$:/plugins/tidme/fsrs4tw $:/plugins/Gk0Wk/echarts $:/plugins/Gk0Wk/focused-tiddler",
+        "description": "Stats for Tidme",
+        "list": "readme license",
+        "name": "Tidme Stats",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/Tidme",
+        "title": "$:/plugins/tidme/stats",
+        "version": "1.0.0",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#相关插件]] 查看安装使用教程。",
+        "requires-reload": "no"
+    },
+    {
+        "title": "$:/plugins/tidme/zh-Hans",
+        "name": "Tidme zh-Hans",
+        "plugin-type": "plugin",
+        "description": "Tidme Chinese (Simplified)",
+        "dependents": "$:/plugins/tidme/fsrs4tw",
+        "author": "oflg",
+        "version": "1.0.0",
+        "list": "readme license",
+        "source": "https://github.com/oflg/Tidme",
+        "core-version": ">=5.3.0",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
+        "requires-reload": "no"
+    }
+]
