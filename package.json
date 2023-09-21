@@ -1,0 +1,83 @@
+{
+    "name": "tidme",
+    "version": "1.0.0",
+    "description": " Lifelong knowledge, deep in mind.终身知识，深入脑海 。",
+    "scripts": {
+        "serve-manual": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js editions/manual/index --listen",
+        "serve-manual-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js  editions/manual/zh-Hans --listen",
+        "serve-empty": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js  editions/empty/index --listen",
+        "serve-empty-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js  editions/empty/zh-Hans --listen",
+        "serve-website": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/website/index --listen",
+        "serve-website-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/website/zh-Hans --listen",
+        "serve-full": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js editions/full --listen",
+        "build-manual": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/manual/index --output dist/manual/ --build index",
+        "build-manual-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/manual/zh-Hans --output dist/manual/ --build index",
+        "build-manual-all": "npm run build-manual && npm run build-manual-zh-Hans",
+        "build-empty": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/empty/index --output dist/empty/ --build index",
+        "build-empty-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/empty/zh-Hans --output dist/empty/ --build index",
+        "build-empty-all": "npm run build-empty && npm run build-empty-zh-Hans",
+        "build-website": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/website/index --output dist/ --build index",
+        "build-website-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/website/zh-Hans --output dist/ --build index",
+        "build-website-all": "npm run build-website && npm run build-website-zh-Hans",
+        "build-full": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/full --output dist/ --build index",
+        "build-edition-all": "npm run build-manual-all && npm run build-empty-all && npm run build-website-all && npm run build-full",
+        "build-library": "cross-env TIDDLYWIKI_PLUGIN_PATH='./plugins' TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/full --output dist/library --build library",
+        "build-all": "npm run build-edition-all && npm run build-library",
+        "semantic-release": "semantic-release"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oflg/Tidme.git"
+    },
+    "keywords": [
+        "tiddlywiki",
+        "tiddlywiki5",
+        "tiddlywiki-plugin",
+        "incremental-learning",
+        "incremental-reading",
+        "flashcards",
+        "spaced-repetition",
+        "active-recall",
+        "anki",
+        "supermemo",
+        "lingq"
+    ],
+    "author": "oflg",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oflg/Tidme/issues"
+    },
+    "homepage": "https://github.com/oflg/Tidme#readme",
+    "dependencies": {
+        "tiddlywiki": "latest"
+    },
+    "devDependencies": {
+        "@semantic-release/changelog": "latest",
+        "@semantic-release/git": "latest",
+        "cross-env": "latest",
+        "nodemon": "latest",
+        "semantic-release": "latest"
+    },
+    "release": {
+        "branches": [
+            "master"
+        ],
+        "plugins": [
+            "@semantic-release/commit-analyzer",
+            "@semantic-release/release-notes-generator",
+            "@semantic-release/changelog",
+            "@semantic-release/npm",
+            [
+                "@semantic-release/git",
+                {
+                    "assets": [
+                        "package.json",
+                        "CHANGELOG.md"
+                    ],
+                    "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+                }
+            ],
+            "@semantic-release/github"
+        ]
+    }
+}

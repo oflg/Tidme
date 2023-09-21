@@ -1,0 +1,9 @@
+author: JeremyRuston
+core-version: >=5.0.0
+dependents: $:/themes/tiddlywiki/centralised
+description: Hides the normal user interface, presentational
+name: Hide Furniture
+plugin-type: theme
+title: $:/themes/tiddlywiki/hidefurniture
+type: application/json
+version: 5.2.2

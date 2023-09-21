@@ -1,0 +1,50 @@
+created: 20230310050445318
+difficulty: 3.9899999999999998
+due: 20230925104925353
+elapsed_days: 0
+lapses: 0
+last_review: 20230919104925353
+modified: 20230921102016775
+reps: 1
+review: 20230310050445318
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: [[Tidme Manual]] ? .
+title: Included plugins
+type: text/vnd.tiddlywiki
+
+[img[fishing.png]]
+
+You cn open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, then search plugin name to install it and get updates with one click in ''Tidme Plugin Library''.
+
+<<<
+{{Supported Languages 支持的语言}}
+<<<
+
+
+
+[[fsrs4tw plugin]]
+
+<<<
+{{fsrs4tw plugin}}
+<<<
+
+[[Stats plugin]]
+
+<<<
+{{Stats plugin}}
+<<<
+
+[[Shared deck plugin]]
+
+<<<
+{{Shared deck plugin}}
+<<<
+
+
+[[Reading plugin]]
+
+<<<
+{{Reading plugin}}
+<<<

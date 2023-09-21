@@ -1,0 +1,9 @@
+created: 20211112102348914
+due: 20220701073133607
+modified: 20230921101026816
+review: 20220622073133607
+tags: [[How Tidme works?]] ?
+title: Where is the data for the Tidme stored?
+type: text/vnd.tiddlywiki
+
+The fields due, state, reps, and lapses for each tiddler can be viewed in the tiddler information.

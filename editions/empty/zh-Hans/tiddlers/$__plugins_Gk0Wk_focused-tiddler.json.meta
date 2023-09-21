@@ -1,0 +1,10 @@
+Modern.TiddlyDev#SHA256-Hashed: 264f4cc98f91f741be853a964989242f2c5d2a0fe86b901bbd3971826dc8179e
+author: Gk0Wk
+dependents: 
+description: Detecting the tiddler you are viewing
+list: readme config
+name: Focused Tiddler
+plugin-type: plugin
+title: $:/plugins/Gk0Wk/focused-tiddler
+type: application/json
+version: 0.0.1

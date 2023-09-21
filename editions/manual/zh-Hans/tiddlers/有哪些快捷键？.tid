@@ -1,0 +1,19 @@
+created: 20230920134245120
+modified: 20230920141954612
+tags: ? 高级技巧
+title: 有哪些快捷键？
+type: text/vnd.tiddlywiki
+
+\import $:/core/ui/ControlPanel/KeyboardShortcuts
+
+
+<table>
+<tbody>
+<$list filter="[all[shadows+tiddlers]prefix[$:/config/ShortcutInfo/tidme-]removeprefix[$:/config/ShortcutInfo/]]" variable="shortcutName">
+<<shortcut-item>>
+</$list>
+</tbody>
+</table>
+
+可以在[[设置|$:/ControlPanel]]的''快捷键''选项中自定义快捷键，防止快捷键冲突。
+

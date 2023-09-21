@@ -1,0 +1,12 @@
+created: 20220401164225206
+modified: 20220515073539372
+tags: 
+title: $:/editions/download-empty-button
+type: text/vnd.tiddlywiki
+
+<$wikify name="site-title" text={{$:/SiteTitle}}>
+<$button class="tc-btn-download">
+<$action-sendmessage $message="tm-download-file" $param="$:/editions/download-empty" filename={{{ [<site-title>addsuffix[.html]] }}}/>
+<$text text={{{ [<site-title>addsuffix[.html]] }}}/> {{$:/core/images/download-button}}
+</$button>
+</$wikify>

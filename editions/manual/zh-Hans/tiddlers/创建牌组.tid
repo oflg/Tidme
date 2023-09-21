@@ -1,0 +1,9 @@
+created: 20230921003741334
+modified: 20230921005302210
+tags: 如何自定义牌组？ ?
+title: 创建牌组
+type: text/vnd.tiddlywiki
+
+* 在 ''<<.icon $:/core/images/options-button>>{{$:/language/tidme/options}}'' 中修改{{$:/language/tidme/cardfilter}}来自定义牌组包含的卡片。
+
+* 在 ''<<.icon $:/core/images/advanced-search-button>>{{$:/language/tidme/exportdelete}}'' 中查看牌组包含的卡片、导出或删除牌组。

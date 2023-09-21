@@ -1,0 +1,21 @@
+created: 20201212170005281
+due: 20220623073158410
+modified: 20230921095351097
+review: 20220622073158410
+tags: [[Tidme Manual]] ?
+title: Usage
+type: text/vnd.tiddlywiki
+
+# Click {{$:/plugins/tidme/fsrs4tw/home}} on the sidebar to select a deck.
+
+#* [[Default Deck|$:/Deck/default]] contains tiddlers that have added the `? ` tagged card, which can be customised by ''{{$:/language/tidme/createdeck}}''.
+
+# Click ''{{$:/language/tidme/startstudy}}''.
+
+#* The first card in the deck that needs to be studied will jump.
+
+#* The card will generally be collapsed to show only the questions (you can set specific cards not to be collapsed).
+
+#* Recall the answer based on the card's question, then click the <<.icon $:/core/images/unfold-button>> in the card to expand the card and evaluate it.
+
+# Click ''{{$:/language/tidme/stopstudy}}''.

@@ -1,0 +1,21 @@
+created: 20220401164945413
+due: 20220623073156673
+list: Windows
+modified: 20230921092647038
+review: 20220622073156673
+saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
+saving-os: Windows Mac Linux Android iOS
+tags: Installation ?
+title: Recommended method
+type: text/vnd.tiddlywiki
+
+# Download Tidme by clicking this button:
+#> {{$:/editions/download-empty-button}}
+# Locate the Tidme you just downloaded and open it in your browser
+# Try creating a new tiddler using the ''new tiddler'' <<.icon $:/core/images/new-button>> button in the sidebar. Type some content for the tiddler, and click the <<.icon $:/core/images/done-button>> ''ok'' button
+# Save your changes by clicking the <<.icon $:/core/images/save-button>> ''save changes'' button in the sidebar
+# Your browser will download a new copy of the wiki incorporating your changes
+# Locate the newly downloaded file and open it in your browser
+# Verify that your changes have been saved correctly
+
+''Tip'': most browsers have an option to prompt each time for the download location. This allows you to select the existing version of the file and replace it.

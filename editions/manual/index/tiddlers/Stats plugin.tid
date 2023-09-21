@@ -1,0 +1,19 @@
+created: 20220111073643059
+difficulty: 4.93
+due: 20230920033327421
+elapsed_days: 0.003693761574074074
+lapses: 0
+last_review: 20230917033327421
+modified: 20230921100720646
+reps: 3
+review: 20220622073130350
+scheduled_days: 3
+stability: 2.4
+state: 2
+tags: [[Included plugins]] ?
+title: Stats plugin
+type: text/vnd.tiddlywiki
+
+Chart visualisation of Tidme data.
+
+It can be used in the sidebar ''Statistics''.

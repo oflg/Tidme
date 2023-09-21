@@ -1,0 +1,21 @@
+created: 20140820151051019
+modified: 20220402125032155
+tags: Community
+title: Improving Tidme Documentation
+type: text/vnd.tiddlywiki
+
+Anyone can submit improvements to the ~Tidme documentation that appears on https://oflg.github.io/Tidme/manual/ . (For improvements to the core code a more complicated process must be used because of the need to test the changes both in the browser and under Node.js before submission).
+
+# Create an account on https://github.com if you don't already have one
+# On https://oflg.github.io/Tidme/manual/, click "edit" on the tiddler you want to improve
+# You should see a pink banner with the text: //Can you help us improve this documentation? Find out how to edit this tiddler on ~GitHub//
+# Click on the external link ...''this tiddler on ~GitHub''
+## You will be prompted that "you need to fork this repository to propose changes". A "fork" is your own copy of the repository that incorporates the changes you are proposing
+# A new browser tab should open ready to edit the tiddler on github.com
+# Below the edit box for the tiddler text you should see a box labelled ''Propose file change''
+# Enter a brief title to explain the change (eg, "Clarify attribute syntax instability")
+# If necessary, enter a longer description too
+# Click the green button labelled ''Propose file change''
+# On the following screen, click the green button labelled ''Create pull request''
+
+[[@oflg|https://github.com/oflg]] or one of the other core developers will then have the opportunity to merge your pull request so that it is incorporated into the next build of https://oflg.github.io/Tidme/manual/.

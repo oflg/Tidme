@@ -1,0 +1,25 @@
+created: 20211111054311121
+difficulty: 6.333946368857254
+due: 20240112044709739
+grade: 1
+lapses: 1
+modified: 20230921084925253
+reps: 8
+retrievability: 0.6471373864296459
+review: 20230310044709739
+stability: 307.8528714689971
+tags: 高级技巧 ?
+title: 如何自定义牌组？
+type: text/vnd.tiddlywiki
+
+[[获取牌组]]
+
+<<<
+{{获取牌组}}
+<<<
+
+[[创建牌组]]
+
+<<<
+{{创建牌组}}
+<<<

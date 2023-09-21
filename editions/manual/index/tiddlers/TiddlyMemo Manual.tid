@@ -1,0 +1,34 @@
+created: 20211111061057954
+due: 20220701073136161
+modified: 20230921063911624
+review: 20220622073136161
+tags: 
+title: Tidme Manual
+type: text/vnd.tiddlywiki
+
+[[Welcome]]
+
+<<<
+{{Welcome}}
+<<<
+
+[[Installation]]
+
+<<<
+{{Installation}}
+<<<
+
+[[Usage]]
+
+<<<
+{{Usage}}
+<<<
+
+* [[Advanced Tips]]
+
+
+* [[Included plugins]]
+
+
+* [[Feedback]]
+

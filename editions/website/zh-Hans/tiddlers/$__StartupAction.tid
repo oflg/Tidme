@@ -1,0 +1,9 @@
+created: 20220401090749541
+modified: 20220401091720607
+tags: $:/tags/StartupAction
+title: $:/StartupAction
+type: text/vnd.tiddlywiki
+
+<$action-setfield $tiddler="$:/state/sidebar" $value="no"/>
+
+<$action-setfield $tiddler="$:/palette" $value={{{ [{$:/info/darkmode}match[yes]then[$:/palettes/SpartanNight]else[$:/palettes/SpartanDay]] }}}/>

@@ -1,0 +1,7 @@
+created: 20230921094935677
+modified: 20230921095005518
+tags: ? [[Advanced Tips]]
+title: How do I reverse the display of questions and answers?
+type: text/vnd.tiddlywiki
+
+Just add the `reverse` field to the tiddler.

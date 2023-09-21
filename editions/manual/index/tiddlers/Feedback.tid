@@ -1,0 +1,28 @@
+caption: <<C 111>>
+created: 20211111062249553
+difficulty: 8.475387999999999
+due: 20230919110021253
+elapsed_days: 2.3228707060185183
+lapses: 2
+last_review: 20230919105521253
+modified: 20230921100947428
+reps: 5
+review: 20220622073135028
+scheduled_days: 0
+stability: 0.3892496669431763
+state: 3
+tags: [[Tidme Manual]] ?
+title: Feedback
+type: text/vnd.tiddlywiki
+
+
+[[FAQ]]
+
+
+<<<
+{{FAQ}}
+<<<
+
+
+
+Feel free to [[send feedback and suggestions|https://github.com/oflg/Tidme/issues]] for better features.

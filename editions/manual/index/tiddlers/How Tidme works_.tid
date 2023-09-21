@@ -1,0 +1,22 @@
+caption: 1
+created: 20211112102310964
+difficulty: 6.81
+due: 20230920065055915
+elapsed_days: 0.8287621180555556
+lapses: 1
+last_review: 20230920064555915
+modified: 20230921100939924
+reps: 9
+review: 20220622073133980
+scheduled_days: 0
+stability: 0.4
+state: 1
+tags: FAQ ?
+title: How Tidme works?
+type: text/vnd.tiddlywiki
+
+[[Where is the data for the Tidme stored?]]
+
+<<<
+{{Where is the data for the Tidme stored?}}
+<<<

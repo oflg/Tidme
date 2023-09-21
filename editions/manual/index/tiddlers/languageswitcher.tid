@@ -1,0 +1,39 @@
+created: 20210910203216246
+creator: oflg
+modified: 20211111042757409
+modifier: oflg
+tags: 
+title: languageswitcher
+type: text/vnd.tiddlywiki
+
+\define flag-title()
+$(languagePluginTitle)$/icon
+\end
+
+<!--<$linkcatcher to="$:/language">-->
+<div class="tc-chooser tc-language-chooser">
+<$list filter="[[$:/languages/en-GB]] [plugin-type[language]sort[description]] +[sortby{$:/language}reverse[]]">
+<$set name="cls" filter="[all[current]field:title{$:/language}]" value="tc-chooser-item tc-chosen tc-btn-invisible" emptyValue="tc-btn-invisible">
+<$button class=<<cls>> tooltip={{{[<currentTiddler>removeprefix[$:/languages/]addprefix[切换到 switch to ]]}}}>
+<$action-sendmessage $message="tm-close-all-tiddlers"/>
+<$action-setfield $tiddler="$:/language" text=<<currentTiddler>>/>
+<$action-navigate $to={{{[{$:/language}removeprefix[$:/languages/]addprefix[FishingManual-]]}}} $scroll="yes"/>
+<$action-setfield $tiddler="$:/DefaultTiddlers" text={{{[{$:/language}removeprefix[$:/languages/]addprefix[FishingManual-]]}}}/>
+<span class="tc-image-button">
+<$set name="languagePluginTitle" value=<<currentTiddler>>>
+<$transclude subtiddler=<<flag-title>>>
+<$list filter="[all[current]field:title[$:/languages/en-GB]]">
+<$transclude tiddler="$:/languages/en-GB/icon"/>
+</$list>
+</$transclude>
+</$set>
+</span>
+<$view field="description">
+<$view field="name">
+<$view field="title"/>
+</$view>
+</$view>
+</$button>
+</$set>
+</$list>
+</div>

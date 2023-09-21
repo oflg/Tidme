@@ -1,0 +1,7 @@
+created: 20230920114210691
+modified: 20230920142001933
+tags: 高级技巧 ?
+title: 如何反转显示问题和答案？
+type: text/vnd.tiddlywiki
+
+给条目加上`reverse`字段即可。

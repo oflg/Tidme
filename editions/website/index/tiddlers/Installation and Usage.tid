@@ -1,0 +1,37 @@
+created: 20220401070141326
+modified: 20220414151024910
+title: Installation and Usage
+type: text/vnd.tiddlywiki
+
+\define flag-title()
+$(languagePluginTitle)$/icon
+\end
+
+Supported Languages
+
+<div class="tc-drop-down-language-chooser" style="font-size: 6px; line-height: 10px; -moz-columns:4; -webkit-columns:4; columns:4;">
+<$list filter="[[$:/languages/en-GB]] [plugin-type[language]sort[title]] -[[$:/languages/de-AT]]">
+<div class="tc-language-list">
+<span class="tc-language-list-name tc-image-button">
+<$set name="languagePluginTitle" value=<<currentTiddler>>>
+<$transclude subtiddler=<<flag-title>>>
+<$list filter="[all[current]field:title[$:/languages/en-GB]]">
+<$transclude tiddler="$:/languages/en-GB/icon"/>
+</$list>
+</$transclude>
+</$set>
+<$button message="tm-open-external-window" param={{{ [<currentTiddler>addprefix[https://oflg.github.io/Tidme/manual/]search-replace[$:/languages/],[]search-replace[en-GB],[]] }}} class="tc-btn-invisible tc-tiddlylink">
+<$view subtiddler="$:/language/ControlPanel/Basics/Language/Prompt">
+<$view tiddler="$:/language/ControlPanel/Basics/Language/Prompt"/>
+</$view><$view field="description">
+<$view field="name">
+<$view field="title"/>
+</$view>
+</$view>
+</$button>
+</span>
+</div>
+</$list>
+</div>
+
+Can't wait? Click on the corresponding language above to jump!

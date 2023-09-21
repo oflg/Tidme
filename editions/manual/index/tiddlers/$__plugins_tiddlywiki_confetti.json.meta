@@ -1,0 +1,8 @@
+dependents: 
+description: Animated confetti effect
+list: readme
+name: Confetti
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/confetti
+type: application/json
+version: 5.3.2-prerelease

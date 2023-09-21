@@ -1,0 +1,18 @@
+created: 20201212170038783
+due: 20230312050135894
+modified: 20230921092659226
+review: 20230310050135894
+tags: [[Tidme Manual]] ? .
+title: Installation
+type: text/vnd.tiddlywiki
+
+# Download Tidme by clicking this button:
+#> {{$:/editions/download-empty-button}}
+# Locate the Tidme you just downloaded and open it in your browser
+# Try creating a new tiddler using the ''new tiddler'' <<.icon $:/core/images/new-button>> button in the sidebar. Type some content for the tiddler, and click the <<.icon $:/core/images/done-button>> ''ok'' button
+# Save your changes by clicking the <<.icon $:/core/images/save-button>> ''save changes'' button in the sidebar
+# Your browser will download a new copy of the wiki incorporating your changes
+# Locate the newly downloaded file and open it in your browser
+# Verify that your changes have been saved correctly
+
+''Tip'': most browsers have an option to prompt each time for the download location. This allows you to select the existing version of the file and replace it.

@@ -1,0 +1,35 @@
+code-body: yes
+created: 20220411020007712
+modified: 20220415141044666
+tags: $:/tags/Stylesheet
+title: $:/_tw5.com/CustomStoryTiddlerTemplateDemo/Styles
+type: text/vnd.tiddlywiki
+
+.tc-custom-tiddler-template {
+	margin-bottom: 1em;
+    padding: 1em;
+}
+
+.tc-custom-tiddler-template-inner {
+	padding: 1em;
+}
+
+.tc-custom-tiddler-template-list {
+    border-radius: 1em;
+	position: relative;
+	height: 33vh;
+}
+
+.tc-custom-tiddler-template-list .tc-custom-tiddler-template-list-item {
+	position: absolute;
+	width: 100%;
+	transform-origin: 50% 0;
+	top: 50px;
+	left: 0;
+	<<box-shadow "0px 0px 15px rgba(0, 0, 0, 0.3)">>
+}
+
+.tc-custom-tiddler-template-list .tc-custom-tiddler-template-list-item .tc-tiddler-frame {
+	margin: 0;
+    background-color:<<colour background>>;
+}

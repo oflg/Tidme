@@ -1,0 +1,21 @@
+created: 20211111062231718
+difficulty: 3.9899999999999998
+due: 20230923031322005
+elapsed_days: 0
+lapses: 0
+last_review: 20230917031322005
+modified: 20230921100606378
+priority: 10
+reps: 1
+retrievability: 1
+review: 20230310043548233
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: [[Included plugins]] ? .
+title: fsrs4tw plugin
+type: text/vnd.tiddlywiki
+
+Tidme's core plugin.
+
+It integrates [[Spaced Repetition|https://docs.ankiweb.net/background.html#spaced-repetition]] system into TiddlyWiki using [[FSRS|https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler]] algorithm.

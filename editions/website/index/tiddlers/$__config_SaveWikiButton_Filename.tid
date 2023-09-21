@@ -1,0 +1,6 @@
+created: 20220515085040881
+modified: 20220515085041101
+title: $:/config/SaveWikiButton/Filename
+type: text/vnd.tiddlywiki
+
+{{$:/SiteTitle}}.html

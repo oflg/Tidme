@@ -1,0 +1,19 @@
+created: 20220401061636267
+list-after: $:/core/ui/EditTemplate/title
+modified: 20220402125056262
+tags: $:/tags/EditTemplate
+title: $:/ContributionBanner
+type: text/vnd.tiddlywiki
+
+\define base-github()
+https://github.com/oflg/Tidme/edit/master/editions/manual/tiddlers/
+\end
+
+<$set name="draft-of" value={{{ [<currentTiddler>get[draft.of]] }}}>
+<$list filter="[[$:/config/OriginalTiddlerPaths]getindex<draft-of>]" variable="target" >
+<div class="tc-improvement-banner">
+{{$:/core/images/star-filled}} Can you help us improve this documentation? [[Find out how|Improving Tidme Documentation]] to
+<a href={{{ [<target>addprefix<base-github>] }}} class="tc-tiddlylink-external" target="_blank" rel="noopener noreferrer">edit this tiddler on ~GitHub</a>
+</div>
+</$list>
+</$set>

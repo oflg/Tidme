@@ -1,0 +1,29 @@
+caption: 111
+created: 20211111054019363
+difficulty: 6.81
+due: 20230921083720143
+elapsed_days: 1.7533074884259259
+lapses: 1
+last_review: 20230921083220143
+modified: 20230921095420390
+reps: 2
+review: 20230310044604301
+scheduled_days: 0
+stability: 0.4
+state: 1
+tags: 墨屉手册 ?
+title: 使用
+type: text/vnd.tiddlywiki
+
+# 点击侧边栏上的 {{$:/plugins/tidme/fsrs4tw/home}} 选择一个牌组。
+
+#*[[默认牌组|$:/Deck/default]]中包含添加过`?`标签的卡片，可以通过''{{$:/language/tidme/createdeck}}''来自定义。
+
+# 点击''{{$:/language/tidme/startstudy}}''。
+
+#*会跳转到牌组内第一张需要学习的卡片。
+
+#*跳转到的卡片一般会折叠起来只显示问题（可以设置特定卡片不折叠）。
+#*根据卡片的问题回想答案，再点击卡片中的 <<.icon $:/core/images/unfold-button>> 展开卡片并进行评价。
+
+#  点击''{{$:/language/tidme/stopstudy}}''。

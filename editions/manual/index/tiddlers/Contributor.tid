@@ -1,0 +1,26 @@
+created: 20230312101626769
+difficulty: 3.9899999999999998
+due: 20230925104742652
+elapsed_days: 0
+lapses: 0
+last_review: 20230919104742652
+modified: 20230921094733840
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: .
+title: Contributor
+type: text/vnd.tiddlywiki
+
+[[@oflg|https://github.com/oflg]] would like to give special thanks to the following friends for their contributions to Tidme:
+
+<<.contributors """
+linonetwo
+Gk0Wk
+L-M-Sherlock
+oeyoews
+Zacharia2
+""">>
+
+Contributions are welcome.

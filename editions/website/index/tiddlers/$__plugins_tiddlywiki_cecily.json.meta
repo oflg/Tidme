@@ -1,0 +1,8 @@
+dependents: 
+description: Zoomable storyview (Cecily)
+list: readme
+name: Cecily
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/cecily
+type: application/json
+version: 5.2.2

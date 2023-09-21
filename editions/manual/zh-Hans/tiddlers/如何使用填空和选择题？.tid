@@ -1,0 +1,28 @@
+created: 20211111054354485
+creator: oflg
+difficulty: 3.9899999999999998
+due: 20230925145956817
+elapsed_days: 0
+grade: 1
+lapses: 0
+last_review: 20230919145956817
+modified: 20230920135553019
+modifier: oflg
+reps: 1
+retrievability: 1
+review: 20220419125315807
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 高级技巧 ?
+title: 如何使用填空和选择题？
+type: text/vnd.tiddlywiki
+
+给卡片添加`caption`字段，此字段的内容即为卡片正面。
+
+| 题型 | `caption`字段内容编写说明 |>| 按钮产生的宏 |<|h
+|~|~| 名称 | 结构 |示例和说明|h
+| 填空题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> 按钮将所选文本设置为''挖空'' | C | `<<C hide show id>>`  | [[填空题示例和说明]] |
+| 问答题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> 按钮将所选文白设置为''选项'' + 填入答案''序号'' | S | `<<S option answer>>` |  [[选择题示例和说明]] |
+
+可以根据需要手动编写自己的宏，或在[[讨论|https://github.com/oflg/TiddlyMemo/discussions]]中获取和分享宏。

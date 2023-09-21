@@ -1,0 +1,38 @@
+{
+    "description": "Tidme Manual zh-Hans",
+	"plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/powered-by-tiddlywiki",
+        "tiddlywiki/pluginlibrary",
+        "tiddlywiki/github-fork-ribbon",
+        "tiddlywiki/dynaview",
+        "tiddlywiki/dynannotate",
+        "tiddlywiki/browser-sniff",
+        "tiddlywiki/confetti",
+        "tidme/fsrs4tw",
+        "tidme/stats",
+        "tidme/read",
+        "tidme/decks",
+        "tidme/twpub",
+        "tidme/zh-Hans"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+	"languages": [
+		"zh-Hans"
+	],
+	"build": {
+        "index": [
+            "--rendertiddler",
+			"$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "zh-Hans.html",
+            "text/plain"
+        ]
+    },
+    "config": {
+        "retain-original-tiddler-path": true
+    }
+}

@@ -1,0 +1,32 @@
+created: 20211111070815535
+difficulty: 6.81
+due: 20230918030348070
+elapsed_days: 0.004221967592592592
+lapses: 1
+last_review: 20230918025848070
+modified: 20230918025848077
+reps: 4
+retrievability: 0.8495265113598027
+review: 20220622073210372
+scheduled_days: 0
+stability: 0.4
+state: 1
+tags: [[Advanced Tips]] ? !
+title: How to learn tiddlers by group?
+type: text/vnd.tiddlywiki
+
+Use the input box in {{$:/plugins/tidme/fsrs4tw/home}} The image is a "fishing rod".
+
+* Enter [[Filter Expression|https://tiddlywiki.com/#Filter%20Expression]] in the input box. For example:
+**`newTiddler`, also written `[[newTiddler]]`: will learn `newTiddler`. It will automatically be added as it is learned with the `?`  tag. Depending on your actions, it will also add `.` or `!` tags. Where the `.` tag indicates that this tiddler (''Excerpt Tiddler'') does not need to be recalled when learning, and the `!` tag indicates that this tiddler (the discarded tiddler) is no longer learning.
+** `[tag[?] tag[advanced tips]]`: will filter from entries with the `?` tags to filter out tiddlers with `advanced tips` tags to learn.
+** `[tag[?] tag[.]] `: will filter from tiddlers with the `?` to filter out ''Excerpt Tiddle''r for learning.
+
+* Use <<.icon $:/core/images/plus-button>> to add frequently used expressions.
+* Use <<.icon $:/core/images/down-arrow>> to fillin frequently used expressions.
+* Use <<.icon $:/core/images/cancel-button>> to delete frequently used expressions.
+* Use <<.icon $:/core/images/options-button>> to customize the behaviour of the tiddlers filtered by frequently used expressions.
+* Use <<.icon $:/core/images/advanced-search-button>> view tiddlers related to frequently used expressions. It can be used to export or delete learning packages.
+
+
+In addition, the ''Tidme'' option in [[ControlPanel|$:/ControlPanel]] can be switched to change the [[retention|https://help.supermemo.org/wiki/Glossary:Retention]] of Tidme and customize the showing caption and annotation of the tiddlers. @@color:red;Please make sure you fully understand the meaning before changing it, otherwise it can have destructive consequences. @@

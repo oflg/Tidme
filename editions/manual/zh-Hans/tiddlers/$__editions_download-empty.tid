@@ -1,0 +1,13 @@
+code-body: yes
+created: 20220401172140173
+modified: 20230920081302891
+title: $:/editions/download-empty
+type: text/vnd.tiddlywiki
+
+\define saveTiddlerFilter()
+[prefix[$:/plugins/]![$:/plugins/tiddlywiki/filesystem]![$:/plugins/tiddlywiki/github-fork-ribbon]![$:/plugins/tiddlywiki/pluginlibrary]![$:/plugins/tiddlywiki/powered-by-tiddlywiki]![$:/plugins/tiddlywiki/tiddlyweb]] [[$:/config/ChinesePluginLibrary]] [[$:/SiteTitle]]  [[$:/SiteSubtitle]]  [prefix[$:/themes/]] [prefix[$:/languages/]] [[$:/core]] [[$:/language]] [[$:/isEncrypted]] [[$:/SplashScreen]] [[$:/favicon.ico]] [[GettingStarted]] [[欢迎]] [[TiddlyWiki]] [[墨屉]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
+\end
+\define savingEmpty()
+yes
+\end
+{{$:/core/templates/tiddlywiki5.html}}

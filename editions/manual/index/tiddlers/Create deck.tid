@@ -1,0 +1,9 @@
+created: 20230921095838776
+modified: 20230921095903458
+tags: ?
+title: Create deck
+type: text/vnd.tiddlywiki
+
+* Modify {{$:/language/tidme/cardfilter}} in ''<<.icon $:/core/images/options-button>>{{$:/language/tidme/options}}'' to customise the cards included in the deck.
+
+* View the cards contained in the deck, export or delete the deck in ''<<.icon $:/core/images/advanced-search-button>>{{$:/language/tidme/exportdelete}}''.

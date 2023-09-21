@@ -1,0 +1,9 @@
+created: 20211111055650388
+due: 20230321044637830
+modified: 20230920115827265
+review: 20230310044637830
+tags: 墨鱼插件的原理是什么？ ? .
+title: 墨鱼插件的数据的储存在哪？
+type: text/vnd.tiddlywiki
+
+每个条目的due、state、reps、lapses等字段，可在条目信息中查看。

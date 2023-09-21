@@ -1,0 +1,18 @@
+created: 20230921094833564
+modified: 20230921094903243
+tags: ? [[Advanced Tips]]
+title: What are the shortcut keys?
+type: text/vnd.tiddlywiki
+
+\import $:/core/ui/ControlPanel/KeyboardShortcuts
+
+
+<table>
+<tbody>
+<$list filter="[all[shadows+tiddlers]prefix[$:/config/ShortcutInfo/tidme-]removeprefix[$:/config/ShortcutInfo/]]" variable="shortcutName">
+<<shortcut-item>>
+</$list>
+</tbody>
+</table>
+
+Shortcuts can be customised in the ''Shortcuts'' option of [[Settings|$:/ControlPanel]] to prevent shortcut conflicts.

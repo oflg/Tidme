@@ -1,0 +1,9 @@
+created: 20230921095443385
+modified: 20230921095510015
+tags: ? [[Advanced Tips]]
+title: How do I sort the deck?
+type: text/vnd.tiddlywiki
+
+Sorting is done by dragging in the list of decks. When a card belongs to more than one deck that is being studied, the parameter of the previous deck is used first.
+
+* When you are learning, the deck to which the card belongs is displayed on top of the card.
