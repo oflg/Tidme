@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/oflg/Tidme/compare/v1.1.2...v1.1.3) (2023-09-22)
+
+
+### Bug Fixes
+
+* **options:** wrong text ([36d4ced](https://github.com/oflg/Tidme/commit/36d4ced4623f2ca5761c20ba8a729901f985876f))
+
 ## [1.1.2](https://github.com/oflg/Tidme/compare/v1.1.1...v1.1.2) (2023-09-22)
 
 
