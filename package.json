@@ -1,6 +1,6 @@
 {
     "name": "tidme",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": " Lifelong knowledge, deep in mind.",
     "scripts": {
         "serve-manual": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js editions/manual/index --listen",
