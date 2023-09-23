@@ -25,4 +25,4 @@ type: text/vnd.tiddlywiki
 | 填空题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> 按钮将所选文本设置为''挖空'' | C | `<<C hide show id>>`  | [[填空题示例和说明]] |
 | 问答题 | 写题干 + 用编辑栏上 <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> 按钮将所选文白设置为''选项'' + 填入答案''序号'' | S | `<<S option answer>>` |  [[选择题示例和说明]] |
 
-可以根据需要手动编写自己的宏，或在[[讨论|https://github.com/oflg/TiddlyMemo/discussions]]中获取和分享宏。
+可以根据需要手动编写自己的宏，或在[[讨论|https://github.com/oflg/Tidme/discussions]]中获取和分享宏。

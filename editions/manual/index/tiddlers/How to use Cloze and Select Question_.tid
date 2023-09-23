@@ -18,4 +18,4 @@ Add a `caption` field to the card, the content of this field is the front of the
 |Cloze| Write the stem + set the selected text to ''cloze'' with the <<.icon $:/plugins/tidme/fsrs4tw/icons/cloze>> button | C | `<<C hide show id>>`  | [[Cloze Question examples and explanations]] |
 |Select| Write the question stem + use the <<.icon $:/plugins/tidme/fsrs4tw/icons/select>> button to set the selected text white as ''option'' + fill in the answer ''serial number'' | S | `<<S option answer>>` |  [[Select Question examples and explanations]] |
 
-You can write your own macros manually as needed, or get and share macros in [[Discussions|https://github.com/oflg/TiddlyMemo/discussions]].
+You can write your own macros manually as needed, or get and share macros in [[Discussions|https://github.com/oflg/Tidme/discussions]].
