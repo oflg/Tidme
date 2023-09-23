@@ -61,4 +61,5 @@ _✨ 终身知识，深入脑海  ✨_
 
 ## ⭐亮星
 
-[![亮星历史图](https://api.star-history.com/svg?oflg/Tidme&type=Date)](https://star-history.com/#oflg/Tidme&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=oflg/Tidme&type=Date)](https://star-history.com/#oflg/Tidme&Date)
+

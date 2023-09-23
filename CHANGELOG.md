@@ -31,20 +31,6 @@
 
 ### Bug Fixes
 
-* **order:** not working ([8646e67](https://github.com/oflg/Tidme/commit/8646e67422ee145c731ef17c57050a4d47444a83))
-
-## [1.1.1](https://github.com/oflg/Tidme/compare/v1.1.0...v1.1.1) (2023-09-22)
-
-
-### Bug Fixes
-
-* **order:** not working ([615b472](https://github.com/oflg/Tidme/commit/615b47240631a32b019dc3a7b64237c78ddfa459))
-
-## [1.1.1](https://github.com/oflg/Tidme/compare/v1.1.0...v1.1.1) (2023-09-22)
-
-
-### Bug Fixes
-
 * **order:** not working ([b265f63](https://github.com/oflg/Tidme/commit/b265f63808c338eb84746ebe520adde0f98ee74a))
 
 # [1.1.0](https://github.com/oflg/Tidme/compare/v1.0.0...v1.1.0) (2023-09-21)

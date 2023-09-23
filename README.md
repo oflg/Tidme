@@ -61,4 +61,4 @@ Many thanks to the following friends who have contributed to Tidme!
 
 ## ⭐Star
 
-[![Star History Chart](https://api.star-history.com/svg?oflg/Tidme&type=Date)](https://star-history.com/#oflg/Tidme&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=oflg/Tidme&type=Date)](https://star-history.com/#oflg/Tidme&Date)
