@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/oflg/Tidme/compare/v1.1.4...v1.1.5) (2023-09-23)
+
+
+### Bug Fixes
+
+* **hide title:** wrong title color ([b7ef495](https://github.com/oflg/Tidme/commit/b7ef49539f084f984d490b5314f6d9f146411a36))
+
 ## [1.1.4](https://github.com/oflg/Tidme/compare/v1.1.3...v1.1.4) (2023-09-23)
 
 
