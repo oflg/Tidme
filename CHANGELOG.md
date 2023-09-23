@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/oflg/Tidme/compare/v1.1.3...v1.1.4) (2023-09-23)
+
+
+### Bug Fixes
+
+* **get shared decks:** wrong url ([56e20ca](https://github.com/oflg/Tidme/commit/56e20ca8104868a873991f01d85d9d5fa7a0d0b9))
+
 ## [1.1.3](https://github.com/oflg/Tidme/compare/v1.1.2...v1.1.3) (2023-09-22)
 
 
