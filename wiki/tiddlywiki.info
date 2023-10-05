@@ -1,0 +1,23 @@
+{
+    "description": "Tidme Full",
+    "plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/pluginlibrary",
+        "tiddlywiki/dynaview",
+        "tiddlywiki/dynannotate",
+        "tiddlywiki/browser-sniff",
+        "tiddlywiki/github-fork-ribbon"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+    "languages": [
+        "zh-Hans"
+    ],
+    "build": {},
+    "config": {
+        "retain-original-tiddler-path": true
+    }
+}

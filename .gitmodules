@@ -1,9 +1,9 @@
-[submodule "plugins/tidme/fsrs4tw"]
-	path = plugins/tidme/fsrs4tw
+[submodule "src/fsrs4tw"]
+	path = src/fsrs4tw
 	url = https://github.com/open-spaced-repetition/fsrs4tw.git
-[submodule "plugins/tidme/stats"]
-	path = plugins/tidme/stats
+[submodule "src/stats"]
+	path = src/stats
 	url = https://github.com/oflg/Tidme-stats.git
-[submodule "plugins/tidme/zh-Hans"]
-	path = plugins/tidme/zh-Hans
+[submodule "src/zh-Hans"]
+	path = src/zh-Hans
 	url = https://github.com/oflg/Tidme-zh-Hans.git

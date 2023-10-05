@@ -1,0 +1,16 @@
+{
+    "description": "Tidme website zh-Hans",
+	"plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/github-fork-ribbon"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+	"languages": [
+		"zh-Hans"
+	],
+    "build": {}
+}

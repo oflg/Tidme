@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oflg.github.io/Tidme/zh-Hans">
-    <img src="https://oflg.github.io/Tidme/favicon.png" width="150" height="150" alt="Tidme">
+    <img src="https://oflg.github.io/Tidme/media/favicon.png" width="150" height="150" alt="Tidme">
   </a>
 </p>
 

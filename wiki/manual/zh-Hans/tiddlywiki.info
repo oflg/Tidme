@@ -1,0 +1,24 @@
+{
+    "description": "Tidme Manual zh-Hans",
+	"plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/powered-by-tiddlywiki",
+        "tiddlywiki/pluginlibrary",
+        "tiddlywiki/github-fork-ribbon",
+        "tiddlywiki/dynaview",
+        "tiddlywiki/dynannotate",
+        "tiddlywiki/browser-sniff"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+	"languages": [
+		"zh-Hans"
+	],
+	"build": {},
+    "config": {
+        "retain-original-tiddler-path": true
+    }
+}

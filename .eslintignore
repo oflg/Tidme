@@ -1,0 +1,13 @@
+resources/
+settings-dev/
+out/
+logs/
+dist/
+wiki/
+template/
+.webpack/
+node_modules/
+localization/
+build-resources/
+.vscode/
+.github/
