@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/oflg/Tidme/compare/v1.1.5...v1.1.6) (2023-10-05)
+
+
+### Bug Fixes
+
+* **shortcuts:** duplicate info ([6cf41b1](https://github.com/oflg/Tidme/commit/6cf41b1bb1f36767fa530704561894c67ce1d981))
+
 ## [1.1.5](https://github.com/oflg/Tidme/compare/v1.1.4...v1.1.5) (2023-09-23)
 
 
