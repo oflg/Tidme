@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/oflg/Tidme/compare/v1.2.0...v1.3.0) (2023-10-06)
+
+
+### Features
+
+* **get decks:** open plugin modal ([3440617](https://github.com/oflg/Tidme/commit/3440617ff8dc518b00c0152bfd54407086e97e6a))
+
 # [1.2.0](https://github.com/oflg/Tidme/compare/v1.1.6...v1.2.0) (2023-10-06)
 
 
