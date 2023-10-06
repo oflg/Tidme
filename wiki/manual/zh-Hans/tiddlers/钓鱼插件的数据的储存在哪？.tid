@@ -1,7 +1,15 @@
 created: 20211111055650388
-due: 20230321044637830
+difficulty: 3.9899999999999998
+due: 20231012025933316
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025933316
 modified: 20230920115827265
+reps: 1
 review: 20230310044637830
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 墨鱼插件的原理是什么？ ? .
 title: 墨鱼插件的数据的储存在哪？
 type: text/vnd.tiddlywiki

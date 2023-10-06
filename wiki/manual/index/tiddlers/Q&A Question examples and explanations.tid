@@ -1,0 +1,22 @@
+caption: <<C Cloze>> Question <<C examples ? 1>> and <<C explanations x 1>>
+created: 20231006035127105
+difficulty: 6.81
+due: 20230923082758974
+elapsed_days: 1.8003865972222222
+lapses: 1
+last_review: 20230921082758974
+modified: 20231006035313133
+priority: 100
+reps: 14
+retrievability: 0.0000010681874761701868
+review: 20230310043536823
+scheduled_days: 2
+stability: 0.4
+state: 2
+tags: ?
+title: Q&A Question examples and explanations
+type: text/vnd.tiddlywiki
+
+* The `title` is the question.
+
+* The `text` is the answer.

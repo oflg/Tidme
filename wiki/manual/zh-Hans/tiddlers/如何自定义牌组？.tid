@@ -1,13 +1,17 @@
 created: 20211111054311121
-difficulty: 6.333946368857254
-due: 20240112044709739
+difficulty: 5.869999999999999
+due: 20231006030438861
+elapsed_days: 0
 grade: 1
-lapses: 1
+lapses: 0
+last_review: 20231006025938861
 modified: 20230921084925253
-reps: 8
+reps: 1
 retrievability: 0.6471373864296459
 review: 20230310044709739
-stability: 307.8528714689971
+scheduled_days: 0
+stability: 0.6
+state: 1
 tags: 高级技巧 ?
 title: 如何自定义牌组？
 type: text/vnd.tiddlywiki

@@ -1,7 +1,15 @@
 created: 20211111053940936
-due: 20230321044656072
+difficulty: 3.9899999999999998
+due: 20231012025930853
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025930853
 modified: 20230920143023792
+reps: 1
 review: 20230310044656072
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 墨鱼插件 ? .
 title: 墨鱼插件
 type: text/vnd.tiddlywiki

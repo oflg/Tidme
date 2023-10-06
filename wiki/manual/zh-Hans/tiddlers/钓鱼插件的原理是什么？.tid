@@ -1,7 +1,15 @@
 created: 20211111055638970
-due: 20230320044628983
+difficulty: 3.9899999999999998
+due: 20231012025932236
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025932236
 modified: 20230311055955575
+reps: 1
 review: 20230310044628983
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 常见问题 ? .
 title: 墨鱼插件的原理是什么？
 type: text/vnd.tiddlywiki

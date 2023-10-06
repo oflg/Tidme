@@ -1,0 +1,20 @@
+created: 20231006031517411
+creator: oflg
+difficulty: 5.869999999999999
+due: 20231006030428858
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025928858
+modified: 20231006035301868
+modifier: oflg
+reps: 1
+scheduled_days: 0
+stability: 0.6
+state: 1
+tags: ?
+title: 问答题示例和说明
+type: text/vnd.tiddlywiki
+
+* 标题`title`为问题。
+
+* 内容`text`为答案。

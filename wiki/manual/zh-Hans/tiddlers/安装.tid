@@ -1,8 +1,17 @@
 created: 20131129092604900
 delivery: Saver
 description: 有点笨拙但几乎每个浏览器都通用的技术
+difficulty: 5.869999999999999
+due: 20231006030441320
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025941320
 method: save
 modified: 20230921092119233
+reps: 1
+scheduled_days: 0
+stability: 0.6
+state: 1
 tags: ?
 title: 安装
 type: text/vnd.tiddlywiki

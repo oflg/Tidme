@@ -1,16 +1,16 @@
 caption: 111
 created: 20211111054019363
 difficulty: 6.81
-due: 20230921083720143
-elapsed_days: 1.7533074884259259
+due: 20231007024339281
+elapsed_days: 14.757860381944445
 lapses: 1
-last_review: 20230921083220143
+last_review: 20231006024339281
 modified: 20230921095420390
-reps: 2
+reps: 3
 review: 20230310044604301
-scheduled_days: 0
+scheduled_days: 1
 stability: 0.4
-state: 1
+state: 2
 tags: 墨屉手册 ?
 title: 使用
 type: text/vnd.tiddlywiki

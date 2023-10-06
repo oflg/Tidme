@@ -4,7 +4,7 @@ due: 20230918030411534
 elapsed_days: 0.004466134259259259
 lapses: 2
 last_review: 20230918025911534
-modified: 20230921095523073
+modified: 20231006035107959
 reps: 5
 review: 20230310050132761
 scheduled_days: 0
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 
 * [[How do I reverse the display of questions and answers?]]
 
-* [[How to use Cloze and Select Question?]]
+* [[How to use Q&A and Cloze Question?]]
 
 * [[How do I sort the deck?]]
 

@@ -1,10 +1,18 @@
 created: 20220401164945413
-due: 20230313044426469
+difficulty: 3.9899999999999998
+due: 20231012025945005
+elapsed_days: 0
+lapses: 0
+last_review: 20231006025945005
 list: Windows
 modified: 20230920082648379
+reps: 1
 review: 20230310044426469
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
 saving-os: Windows Mac Linux Android iOS
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 安装 ? .
 title: 推荐方法
 type: text/vnd.tiddlywiki

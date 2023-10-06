@@ -1,9 +1,17 @@
 created: 20211111055619592
-due: 20230321044636517
+difficulty: 3.9899999999999998
+due: 20231012025943191
+elapsed_days: 0
 icon: 
+lapses: 0
+last_review: 20231006025943191
 list: 常见问题/摘录
 modified: 20230921091928319
+reps: 1
 review: 20230310044636517
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 反馈 ? .
 title: 常见问题
 type: text/vnd.tiddlywiki
