@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/oflg/Tidme/compare/v1.1.6...v1.2.0) (2023-10-06)
+
+
+### Bug Fixes
+
+* **performance:** kale ([f27c816](https://github.com/oflg/Tidme/commit/f27c8166a2b99ec65629a25c87c5d080e2bdd976))
+
+
+### Features
+
+* **type question:** add ([8525945](https://github.com/oflg/Tidme/commit/85259450f6e74535f5950c194601bf68d603e7ca))
+
 ## [1.1.6](https://github.com/oflg/Tidme/compare/v1.1.5...v1.1.6) (2023-10-05)
 
 
