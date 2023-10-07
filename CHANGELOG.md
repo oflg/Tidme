@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/oflg/Tidme/compare/v1.3.0...v1.4.0) (2023-10-07)
+
+
+### Bug Fixes
+
+* **shortcuts:** auto focus ([569dce5](https://github.com/oflg/Tidme/commit/569dce5d15df61cc6b652178db1ed8d05070f419))
+
+
+### Features
+
+* **study:** all cards in deck ([cea2d42](https://github.com/oflg/Tidme/commit/cea2d429cd86ded781cbfdace7a35abde1ea4db0))
+
 # [1.3.0](https://github.com/oflg/Tidme/compare/v1.2.0...v1.3.0) (2023-10-06)
 
 
