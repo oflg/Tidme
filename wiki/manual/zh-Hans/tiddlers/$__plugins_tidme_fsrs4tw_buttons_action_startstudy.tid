@@ -1,0 +1,118 @@
+button-classes: tc-tiddlylink
+code-body: yes
+condition: [<deckTiddler>]
+difficulty: 5.869999999999999
+due: 20231007125543725
+elapsed_days: 1.4070219560185184
+lapses: 0
+last_review: 20231007124543725
+reps: 2
+scheduled_days: 0
+stability: 0.6
+state: 1
+tags: $:/tags/TidmeDeck/Study
+title: $:/plugins/tidme/fsrs4tw/buttons/action/startstudy
+type: text/vnd.tiddlywiki
+
+\define tv-action-refresh-policy() always
+
+<span style=`color:${ [<rating>match[Again]then[red]] ~[<rating>match[Hard]then[orange]] ~[<rating>match[Good]then[green]]~[<rating>match[Easy]then[blue]] }$;`>
+    <$text text={{{ [<rating>match[Again]then{$:/language/tidme/again}] ~[<rating>match[Hard]then{$:/language/tidme/hard}] ~[<rating>match[Good]then{$:/language/tidme/good}] ~[<rating>match[Easy]then{$:/language/tidme/easy}]  ~[<rating>match[Next]then{$:/language/tidme/next}] ~[{$:/language/tidme/startstudy}] }}}/>
+</span>
+<$list
+    filter="[<studyTiddler>!is[blank]]"
+    variable="studyTiddler"
+>
+    <$list
+        filter="[<rating>match[Next]then[Easy]else<rating>!is[blank]]"
+        variable="rating"
+    >
+        <$let
+            card={{{ [<fsrs_json>jsonget[Rating],<rating>] :map[<fsrs_json>jsonextract[Cards],<currentTiddler>,[card]] }}}
+            review_log={{{ [<fsrs_json>jsonget[Rating],<rating>] :map[<fsrs_json>jsonextract[Cards],<currentTiddler>,[review_log]] }}}
+        >
+            <$list
+                filter="[<card>jsonget[lapses]compare:number:gteq<leech_threshold>]"
+                variable="ignore"
+            >
+                <<leech_action>>
+                <$action-sendmessage
+                    $message="tm-notify"
+                    $param="$:/plugins/tidme/fsrs4tw/notify/leech"
+                />
+            </$list>
+            <$action-setmultiplefields
+                $fields="[<card>jsonindexes[]]"
+                $values="[<card>jsonindexes[]] :map[<card>jsonget<currentTiddler>]"
+                $timestamp={{$:/config/TimestampDisable}}
+            />
+            <$action-setfield
+                $tiddler={{{ [<deckTiddler>addsuffix[/log/]addsuffix<now [UTC]YYYY0MM0DD>] }}}
+                $index={{{ [<now [UTC]0hh0mm0ssXXX>] }}}
+                $value={{{ [<review_log>] }}}
+                $timestamp={{$:/config/TimestampDisable}}
+            />
+            <$action-sendmessage
+                $message="tm-close-tiddler"
+            />
+            <$action-deletetiddler
+                $tiddler="$:/temp/tidme/study/question"
+            />
+            <div style="font-size:8px;color:grey;">
+                <$text text={{{ [<card>jsonget[due]format:relativedate[]] }}}/>
+            </div>
+        </$let>
+    </$list>
+</$list>
+<$let
+    nextTiddler={{{ [subfilter<filter_queue>first[]] }}}
+>
+    <$action-setfield
+        $tiddler={{{ [<deckTiddler>addsuffix[/study]] }}}
+        list={{{ [<nextTiddler>format:titlelist[]] }}}
+    />
+    <$reveal
+        default=<<nextTiddler>>
+        type="nomatch"
+        text=""
+    >
+        <$action-setfield
+            $tiddler={{{ [<nextTiddler>addprefix[$:/state/folded/]] }}}
+            text={{{ [subfilter<filter_unfold>match<nextTiddler>then[show]else[hide]] }}}
+        />
+        <$action-navigate
+            $to=<<nextTiddler>>
+            $scroll="yes"
+        />
+        <$action-sendmessage
+            $message="tm-focus-selector"
+            $param=`[data-tiddler-title="$(nextTiddler)$"] .tmc-hideinput input`
+            preventScroll="true"
+        />
+    </$reveal>
+    <$reveal
+        default=<<nextTiddler>>
+        type="match"
+        text=""
+    >
+        <$action-sendmessage
+            $message="tm-confetti-launch"
+        />
+        <$action-sendmessage
+            $message="tm-confetti-launch"
+            originY=0.6
+            spread=70
+            delay=300
+        />
+        <$action-sendmessage
+            $message="tm-confetti-launch"
+            originY=0.55
+            spread=30
+            delay=600
+        />
+        <$action-sendmessage
+            $message="tm-notify"
+            $param="$:/plugins/tidme/fsrs4tw/notify/congratulation"
+        />
+    </$reveal>
+</$let>

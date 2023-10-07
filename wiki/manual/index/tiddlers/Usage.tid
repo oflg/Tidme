@@ -1,6 +1,6 @@
 created: 20201212170005281
 due: 20220623073158410
-modified: 20230921095351097
+modified: 20231007130308970
 review: 20220622073158410
 tags: [[Tidme Manual]] ?
 title: Usage
@@ -12,10 +12,8 @@ type: text/vnd.tiddlywiki
 
 # Click ''{{$:/language/tidme/startstudy}}''.
 
-#* The first card in the deck that needs to be studied will jump.
-
+#* All cards in the deck go into study pending state and navigate to the first card that needs to be studied.
 #* The card will generally be collapsed to show only the questions (you can set specific cards not to be collapsed).
-
 #* Recall the answer based on the card's question, then click the <<.icon $:/core/images/unfold-button>> in the card to expand the card and evaluate it.
 
 # Click ''{{$:/language/tidme/stopstudy}}''.

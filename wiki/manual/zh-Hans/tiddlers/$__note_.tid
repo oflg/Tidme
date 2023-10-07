@@ -1,0 +1,12 @@
+color: #ffff00
+created: 20231006093622537
+icon: $:/core/images/file
+list: $:/annotation/
+modified: 20231006093622538
+selectionJSON: {"chunks":[{"id":"$:/plugins/twpub/6ae7495ce342ee75/text/000000002","prefix":"\n          The History of Computing\n          series publishes high-quality books which address the history of computing, with an emphasis o","text":"n the ‘externalist’ view of this history, more accessible to a wider audience. The series examines content and history from four main quadrants: the history of relevant technologies, the history of the core science, the history of relevant business and economic developments, and the history of com","suffix":"puting as it pertains to social history and societal developments.\n        "}],"variables":{"tv-selection-posx":"0","tv-selection-posy":"948.25","tv-selection-width":"587.671875","tv-selection-height":"79","tv-selection-coords":"(0,948.25,587.671875,79)","dom-data-twpub-title":"$:/plugins/twpub/6ae7495ce342ee75","dom-data-selection-actions-title":"$:/twpub-tools/SelectionTrackerActions","dom-data-selection-popup-title":"$:/state/selection-popup/-1495322858$:/plugins/twpub/6ae7495ce342ee75"}}
+tags: $:/tags/Note
+title: $:/note/
+twpub: $:/plugins/twpub/6ae7495ce342ee75
+type: text/vnd.tiddlywiki
+
+111

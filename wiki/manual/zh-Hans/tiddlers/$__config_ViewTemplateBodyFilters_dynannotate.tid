@@ -1,0 +1,8 @@
+created: 20231006125116182
+list-before: $:/config/ViewTemplateBodyFilters/default
+modified: 20231006125422163
+tags: $:/tags/ViewTemplateBodyFilter
+title: $:/config/ViewTemplateBodyFilters/dynannotate
+type: text/vnd.tiddlywiki
+
+[[$:/plugins/tiddlywiki/dynannotate/examples/viewtemplate/text]]

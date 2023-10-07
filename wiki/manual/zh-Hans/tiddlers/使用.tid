@@ -1,16 +1,15 @@
-caption: 111
 created: 20211111054019363
-difficulty: 6.81
-due: 20231007024339281
-elapsed_days: 14.757860381944445
-lapses: 1
-last_review: 20231006024339281
-modified: 20230921095420390
-reps: 3
+difficulty: 8.494
+due: 20231007080056163
+elapsed_days: 1.2168620717592593
+lapses: 2
+last_review: 20231007075556163
+modified: 20231007130122879
+reps: 4
 review: 20230310044604301
-scheduled_days: 1
-stability: 0.4
-state: 2
+scheduled_days: 0
+stability: 0.32639767020590527
+state: 3
 tags: 墨屉手册 ?
 title: 使用
 type: text/vnd.tiddlywiki
@@ -21,8 +20,7 @@ type: text/vnd.tiddlywiki
 
 # 点击''{{$:/language/tidme/startstudy}}''。
 
-#*会跳转到牌组内第一张需要学习的卡片。
-
+#*牌组内所有卡片进入待学习状态，并跳转到第一张需要学习的卡片。
 #*跳转到的卡片一般会折叠起来只显示问题（可以设置特定卡片不折叠）。
 #*根据卡片的问题回想答案，再点击卡片中的 <<.icon $:/core/images/unfold-button>> 展开卡片并进行评价。
 
