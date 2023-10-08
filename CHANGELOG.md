@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/oflg/Tidme/compare/v1.4.1...v1.4.2) (2023-10-08)
+
+
+### Bug Fixes
+
+* **RefreshMechanism error:** refres & focus card ([e3bffe1](https://github.com/oflg/Tidme/commit/e3bffe1e078ef032c2502f9b4c244faad654e755))
+
 ## [1.4.1](https://github.com/oflg/Tidme/compare/v1.4.0...v1.4.1) (2023-10-08)
 
 
