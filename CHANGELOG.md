@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/oflg/Tidme/compare/v1.4.0...v1.4.1) (2023-10-08)
+
+
+### Bug Fixes
+
+* **uncaught typeError:** can‘t read property ([c6d8884](https://github.com/oflg/Tidme/commit/c6d888416fde2c671b91a56ea1577c3aae8a50e8))
+
 # [1.4.0](https://github.com/oflg/Tidme/compare/v1.3.0...v1.4.0) (2023-10-07)
 
 
