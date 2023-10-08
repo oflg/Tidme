@@ -1,9 +1,0 @@
-072850733: {"rating":3,"elapsed_days":0,"scheduled_days":0,"review":"20230921072850732","state":0}
-072858487: {"rating":3,"elapsed_days":2,"scheduled_days":0.00008974537037037037,"review":"20230921072858486","state":1}
-073324487: {"rating":3,"elapsed_days":3,"scheduled_days":0.0030786574074074076,"review":"20230921073324486","state":2}
-083220145: {"rating":1,"elapsed_days":0,"scheduled_days":1.7533074884259259,"review":"20230921083220143","state":1}
-created: 20230921072850733
-modified: 20230921083220145
-tags: $:/Deck/default
-title: $:/Deck/default/log/20230921
-type: text/vnd.tiddlywiki
