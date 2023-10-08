@@ -1,0 +1,21 @@
+[
+    {
+        "created": "20231006035325624",
+        "text": "There is one parameter inside the macro `field`, and it can be omitted. \n\n* The `field` indicates the field to be typed for proofreading, which defaults to `text`.",
+        "title": "Type Question examples and explanations",
+        "modified": "20231008082259882",
+        "tags": "?",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "How do typing questions work?\n<<T >>",
+        "difficulty": "6.81",
+        "due": "20230923082758974",
+        "elapsed_days": "1.8003865972222222",
+        "lapses": "1",
+        "last_review": "20230921082758974",
+        "reps": "14",
+        "review": "20230310043536823",
+        "scheduled_days": "2",
+        "stability": "0.4",
+        "state": "2"
+    }
+]

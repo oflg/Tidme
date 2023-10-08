@@ -1,14 +1,14 @@
 created: 20230920141947382
 difficulty: 5.869999999999999
-due: 20231006030437028
-elapsed_days: 0
+due: 20231010082724889
+elapsed_days: 2.2276372800925928
 lapses: 0
-last_review: 20231006025937028
+last_review: 20231008082724889
 modified: 20231008054959578
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 2
 stability: 0.6
-state: 1
+state: 2
 tags: 高级技巧 ?
 title: 如何排序牌组？
 type: text/vnd.tiddlywiki
