@@ -1,8 +1,8 @@
 created: 20211111061057954
 due: 20220701073136161
-modified: 20230924061216397
+modified: 20231009100106572
 review: 20220622073136161
-tags: 
+tags: ?
 title: Tidme Manual
 type: text/vnd.tiddlywiki
 
@@ -24,13 +24,18 @@ type: text/vnd.tiddlywiki
 {{Usage}}
 <<<
 
-* [[Advanced Tips]]
-
-
 * [[Included plugins]]
 
+* [[What are the shortcut keys?]]
 
-* [[Feedback]]
+* [[How to use Q&A and Cloze Question?]]
 
+* [[How do I reverse the display of questions and answers?]]
+
+* [[How do I sort the deck?]]
+
+* [[Advanced Tips]]
 
 <<.tip "The above is how to use the [[Tidme]]-specific features, other basic features are the same as [[TiddlyWiki]]." >>
+
+* [[Feedback]]

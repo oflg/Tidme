@@ -4,7 +4,7 @@ due: 20230919132021546
 elapsed_days: 0.1011094212962963
 lapses: 0
 last_review: 20230919131521546
-modified: 20230921101206884
+modified: 20231009100043688
 priority: 0
 reps: 8
 review: 20220622073130950
@@ -15,4 +15,6 @@ tags: [[Included plugins]] ?
 title: Reading plugin
 type: text/vnd.tiddlywiki
 
-Under construction...
+Incremental reading plugin.
+
+Allows you to select text for word labelling or sentence excerpts while learning cards.

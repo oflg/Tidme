@@ -4,7 +4,7 @@ due: 20230925104925353
 elapsed_days: 0
 lapses: 0
 last_review: 20230919104925353
-modified: 20230921102016775
+modified: 20231009095958393
 reps: 1
 review: 20230310050445318
 scheduled_days: 6
@@ -35,13 +35,6 @@ You cn open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/Control
 <<<
 {{Stats plugin}}
 <<<
-
-[[Shared deck plugin]]
-
-<<<
-{{Shared deck plugin}}
-<<<
-
 
 [[Reading plugin]]
 
