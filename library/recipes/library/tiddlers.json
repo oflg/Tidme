@@ -10,10 +10,26 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/plugins/tidme/fsrs4tw",
         "type": "application/json",
-        "version": "1.2.4",
-        "Modern.TiddlyDev#SHA256-Hashed": "4016530864fd509873c75cc4e070782acb29db0e41a6291b6d36c9e4f8de67fc",
+        "version": "1.2.5",
+        "Modern.TiddlyDev#SHA256-Hashed": "9393c9cf8b5e52b688d017eefa365f5f12ebbcb75d547c97eb590a3ecc78c663",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans]] 查看安装使用教程。",
         "requires-reload": "yes"
+    },
+    {
+        "author": "oflg",
+        "core-version": ">=5.2.3",
+        "dependents": "$:/plugins/tidme/fsrs4tw $:/plugins/tiddlywiki/dynaview $:/plugins/tiddlywiki/dynannotate",
+        "description": "Incremental Reading for Tidme",
+        "list": "readme license",
+        "name": "Tidme Read",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/Tidme-read",
+        "title": "$:/plugins/tidme/read",
+        "type": "application/json",
+        "version": "1.0.0",
+        "Modern.TiddlyDev#SHA256-Hashed": "d9655e43fd870fcf5d755832bba8ba3184aea8bf5893366b66d87a847f041959",
+        "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
+        "requires-reload": "no"
     },
     {
         "author": "oflg",
@@ -42,8 +58,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/tidme/languages/zh-Hans",
         "type": "application/json",
-        "version": "1.1.2",
-        "Modern.TiddlyDev#SHA256-Hashed": "116f59c1e204926f859896727e49ae29bcf469b4ad6a202a47014102734351c8",
+        "version": "1.1.3",
+        "Modern.TiddlyDev#SHA256-Hashed": "1f1a339496a49b93e1fb173f00dd0309e8f5e8a72d9d0bf5e705e6107c7f6781",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
     }
