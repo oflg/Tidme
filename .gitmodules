@@ -1,6 +1,9 @@
 [submodule "src/fsrs4tw"]
 	path = src/fsrs4tw
 	url = https://github.com/open-spaced-repetition/fsrs4tw.git
+[submodule "src/read"]
+	path = src/read
+	url = https://github.com/oflg/Tidme-read.git
 [submodule "src/stats"]
 	path = src/stats
 	url = https://github.com/oflg/Tidme-stats.git
