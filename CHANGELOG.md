@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/oflg/Tidme/compare/v1.4.3...v1.5.0) (2023-10-09)
+
+
+### Features
+
+* **read:** add Incremental Reading plugin ([7877288](https://github.com/oflg/Tidme/commit/787728859e781e9f925db46bbd32d2dfbec6164a))
+
 ## [1.4.3](https://github.com/oflg/Tidme/compare/v1.4.2...v1.4.3) (2023-10-08)
 
 
