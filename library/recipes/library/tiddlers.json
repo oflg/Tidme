@@ -10,8 +10,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/plugins/tidme/fsrs4tw",
         "type": "application/json",
-        "version": "1.2.6",
-        "Modern.TiddlyDev#SHA256-Hashed": "eeb398ecf7882b57dc32f61563cb6778493dd81a5402f3a1dad16bfc6e8d6730",
+        "version": "1.2.7",
+        "Modern.TiddlyDev#SHA256-Hashed": "2902998667d066b4dede79841ac60ac3bea811174eaf748f05046d57ff619519",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans]] 查看安装使用教程。",
         "requires-reload": "yes"
     },
