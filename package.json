@@ -62,25 +62,24 @@
     },
     "homepage": "https://github.com/oflg/Tidme#readme",
     "dependencies": {
-        "tiddlywiki": "latest",
         "npm-check-updates": "^16.10.12",
+        "tiddlywiki": "latest",
         "tiddlywiki-plugin-dev": "^0.0.39"
     },
     "devDependencies": {
         "@modern-js/tsconfig": "^2.24.0",
+        "@semantic-release/changelog": "latest",
+        "@semantic-release/git": "latest",
         "@types/node": "^20.3.1",
         "dprint": "^0.37.1",
-        "eslint-config-tidgi": "1.1.0",
         "husky": "^8.0.3",
         "lint-staged": "^13.2.2",
         "postcss": "^8.4.24",
         "rimraf": "^5.0.1",
+        "semantic-release": "latest",
         "ts-node": "^10.9.1",
         "tw5-typed": "^0.3.5",
-        "typescript": "^5.1.3",
-        "semantic-release": "latest",
-        "@semantic-release/changelog": "latest",
-        "@semantic-release/git": "latest"
+        "typescript": "^5.1.3"
     },
     "release": {
         "branches": [
