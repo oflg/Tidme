@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/oflg/Tidme/compare/v1.6.0...v1.6.1) (2023-10-10)
+
+
+### Bug Fixes
+
+* **exclude card:** not working ([527c3ac](https://github.com/oflg/Tidme/commit/527c3ac5ade3f51af573b84b15804df6cd698812))
+
 # [1.6.0](https://github.com/oflg/Tidme/compare/v1.5.0...v1.6.0) (2023-10-10)
 
 
