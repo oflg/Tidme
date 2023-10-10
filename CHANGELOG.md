@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/oflg/Tidme/compare/v1.5.0...v1.6.0) (2023-10-10)
+
+
+### Features
+
+* **suspend & bury card:** view toolbar buttons ([8105c2b](https://github.com/oflg/Tidme/commit/8105c2ba6fbd2f05d45fd4e13e3df26ae8a25f4e))
+
 # [1.5.0](https://github.com/oflg/Tidme/compare/v1.4.3...v1.5.0) (2023-10-09)
 
 
