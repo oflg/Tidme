@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/oflg/Tidme/compare/v1.6.1...v1.7.0) (2023-10-10)
+
+
+### Features
+
+* **study:** directly from the decks ([7925733](https://github.com/oflg/Tidme/commit/79257335c5e5f7d93c76ee7211864fd48f0bd8ca))
+* **suspend & bury:** customisable ([1ee05a7](https://github.com/oflg/Tidme/commit/1ee05a7540672b3467e7a4c31791de916b7e9dfc))
+
 ## [1.6.1](https://github.com/oflg/Tidme/compare/v1.6.0...v1.6.1) (2023-10-10)
 
 
