@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/oflg/Tidme/compare/v1.8.2...v1.9.0) (2023-10-11)
+
+
+### Features
+
+* **twpub book:** Install and read directly ([0ac46ec](https://github.com/oflg/Tidme/commit/0ac46ec58be3682a9fe75674f4909f107f57926f))
+
 ## [1.8.2](https://github.com/oflg/Tidme/compare/v1.8.1...v1.8.2) (2023-10-11)
 
 
