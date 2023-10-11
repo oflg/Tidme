@@ -1,6 +1,6 @@
 created: 20211111061057954
 due: 20220701073136161
-modified: 20231009100106572
+modified: 20231011170651203
 review: 20220622073136161
 tags: ?
 title: Tidme Manual
@@ -36,6 +36,7 @@ type: text/vnd.tiddlywiki
 
 * [[Advanced Tips]]
 
-<<.tip "The above is how to use the [[Tidme]]-specific features, other basic features are the same as [[TiddlyWiki]]." >>
-
 * [[Feedback]]
+
+
+<<.tip "The above is how to use the [[Tidme]]-specific features, other basic features are the same as [[TiddlyWiki]]." >>

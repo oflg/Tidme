@@ -45,8 +45,8 @@ Welcome to translate Tidme into your language, If you encounter problems, please
 
 * Run `git clone --recursive https://github.com/oflg/Tidme.git`
 * In the root folder of the project run `npm install`
-* To start the Tidme server, run `npm run serve-empty`
-* To build the Tidme HTML files, run `npm run build-empty`
+* To start the Tidme server, run `npm run dev`
+* To build the Tidme HTML files, run `npm run publish`
 * To serve or build a specific language edition, refer to `package.json`
 
 ## ❤️Contributors

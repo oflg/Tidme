@@ -45,8 +45,8 @@ _✨ 终身知识，深入脑海  ✨_
 
 * 运行 `git clone --recursive https://github.com/oflg/Tidme.git`
 * 在项目根目录运行 `npm install`
-* 运行 `npm run serve-empty` 开启本地服务
-* 运行 `npm run build-empty` 构建离线 HTML 文件
+* 运行 `npm run dev` 开启本地服务
+* 运行 `npm run publish` 构建离线 HTML 文件
 * 开启或构建更多语言版本的命令详见 `package.json`
 
 ## ❤️贡献者

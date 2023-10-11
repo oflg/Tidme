@@ -1,0 +1,7 @@
+created: 20231011170841575
+modified: 20231011170847823
+tags: ?
+title: How to convert epub to twpub?
+type: text/vnd.tiddlywiki
+
+Use the epub2twpub command to convert in [[TWPUB project|https://github.com/TWPUB/TWPUB-Tools]]. 
