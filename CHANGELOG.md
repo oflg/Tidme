@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/oflg/Tidme/compare/v1.8.1...v1.8.2) (2023-10-11)
+
+
+### Bug Fixes
+
+* **tomorrow action:** don't work for new cards and is deleted ([d48526f](https://github.com/oflg/Tidme/commit/d48526f256801b9c649701b8a07d79d84f008ac4))
+
 ## [1.8.1](https://github.com/oflg/Tidme/compare/v1.8.0...v1.8.1) (2023-10-11)
 
 
