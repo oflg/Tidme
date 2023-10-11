@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/oflg/Tidme/compare/v1.8.0...v1.8.1) (2023-10-11)
+
+
+### Bug Fixes
+
+* **unfold:** tm-close-tiddler ([adb85a6](https://github.com/oflg/Tidme/commit/adb85a6a5cd496a6068aa243f99f31695348aae3))
+
 # [1.8.0](https://github.com/oflg/Tidme/compare/v1.7.0...v1.8.0) (2023-10-11)
 
 
