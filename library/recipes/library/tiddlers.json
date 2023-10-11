@@ -10,8 +10,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/plugins/tidme/fsrs4tw",
         "type": "application/json",
-        "version": "1.4.2",
-        "Modern.TiddlyDev#SHA256-Hashed": "ec51a92fcd16e70e356783c4ab16936f7b4344ff5dbf56d0e1e9ff040ed98726",
+        "version": "1.4.3",
+        "Modern.TiddlyDev#SHA256-Hashed": "511220df40c2773c3b765f96c6017ecce2a0b3f6935cafd7eeb990ae935ecca4",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans]] 查看安装使用教程。",
         "requires-reload": "yes"
     },
@@ -26,8 +26,8 @@
         "source": "https://github.com/oflg/Tidme-read",
         "title": "$:/plugins/tidme/read",
         "type": "application/json",
-        "version": "1.0.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "d9655e43fd870fcf5d755832bba8ba3184aea8bf5893366b66d87a847f041959",
+        "version": "1.2.0",
+        "Modern.TiddlyDev#SHA256-Hashed": "c33f715ba52b3011ee97467040173c2a5b68beeacabc5ae14f1baf92a7ef3538",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
     },
@@ -58,8 +58,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/tidme/languages/zh-Hans",
         "type": "application/json",
-        "version": "1.4.1",
-        "Modern.TiddlyDev#SHA256-Hashed": "9d7ec57be53bebdc9057094f5b3137a6d5865782c95a69f0bfc9fa1c8d82b788",
+        "version": "1.4.3",
+        "Modern.TiddlyDev#SHA256-Hashed": "43fee7f554ce4606fad37943eb065a33567860cdb1902f24b2060c90fe59234b",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
     }
