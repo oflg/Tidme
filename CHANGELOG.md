@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/oflg/Tidme/compare/v1.7.0...v1.8.0) (2023-10-11)
+
+
+### Bug Fixes
+
+* **reverse card:** mistakes in Q&A question ([84a1e7a](https://github.com/oflg/Tidme/commit/84a1e7a01a4cdea10882cc749a6d6026d8e9b72e))
+
+
+### Features
+
+* **unfold:** add to view toolbar buttons ([9ffa001](https://github.com/oflg/Tidme/commit/9ffa001e4f85e28b5ab79c3ab4ec984cc7102e5c))
+
 # [1.7.0](https://github.com/oflg/Tidme/compare/v1.6.1...v1.7.0) (2023-10-10)
 
 
