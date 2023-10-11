@@ -10,8 +10,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/plugins/tidme/fsrs4tw",
         "type": "application/json",
-        "version": "1.4.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "894b19c111fcb8d8a28705398faeaff7c5a7ad76a467fea260924bce42ecc715",
+        "version": "1.4.1",
+        "Modern.TiddlyDev#SHA256-Hashed": "856b1d4535deceecb60151537c2f4ce12c1d3067c3754cf229672fd3e3db19d5",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans]] 查看安装使用教程。",
         "requires-reload": "yes"
     },
@@ -58,8 +58,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/tidme/languages/zh-Hans",
         "type": "application/json",
-        "version": "1.3.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "e37bd1633ffb19f26cda69d82866746b20ffc58b1f873d7f4a9149e70890d6fd",
+        "version": "1.4.0",
+        "Modern.TiddlyDev#SHA256-Hashed": "d2334c0e8d1c35d45923fdaae0798a32177b2958ed7441031f49f9a6ce5c5b63",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
     }
