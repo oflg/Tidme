@@ -1,9 +1,0 @@
-created: 20231011170841575
-draft.of: How to convert epub to twpub?
-draft.title: How to convert epub to twpub?
-modified: 20231011170856450
-tags: ?
-title: Draft of 'How to convert epub to twpub?'
-type: text/vnd.tiddlywiki
-
-Use the epub2twpub command to convert in [[TWPUB project|https://github.com/TWPUB/TWPUB-Tools]]. Drag the converted twpub.json into TiddlyMemo, and then import it as described in [[Import TWPUB Books sub-plugin]].
