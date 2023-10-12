@@ -1,9 +1,0 @@
-created: 20230105123042553
-modified: 20230105123045402
-tags: $:/tags/PageTemplate
-title: $:/plugins/tiddlywiki/powered-by-tiddlywiki/banner
-type: text/vnd.tiddlywiki
-
-<a href="https://zh-hans.tiddlyhost.com/" target="_blank" rel="noopener noreferrer">
-[img width="160px" class="tc-powered-by-tiddlywiki-banner" [$:/plugins/tiddlywiki/powered-by-tiddlywiki/powered-by-tiddlywiki.svg]]
-</a>
