@@ -58,8 +58,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/tidme/languages/zh-Hans",
         "type": "application/json",
-        "version": "1.4.3",
-        "Modern.TiddlyDev#SHA256-Hashed": "43fee7f554ce4606fad37943eb065a33567860cdb1902f24b2060c90fe59234b",
+        "version": "1.4.4",
+        "Modern.TiddlyDev#SHA256-Hashed": "abc91db13ed7932f2c2a979788b30ddb922c78f4b7eb8caca18ce4ea533eade0",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
     }
