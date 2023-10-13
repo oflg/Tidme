@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/oflg/Tidme/compare/v1.9.1...v1.9.2) (2023-10-13)
+
+
+### Bug Fixes
+
+* **inconsistency:** unfold ([e8b1332](https://github.com/oflg/Tidme/commit/e8b13326810ff42f54cdfcf4b0cdc556059ed877))
+
 ## [1.9.1](https://github.com/oflg/Tidme/compare/v1.9.0...v1.9.1) (2023-10-12)
 
 
