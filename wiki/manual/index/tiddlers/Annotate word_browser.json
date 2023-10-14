@@ -1,0 +1,25 @@
+[
+    {
+        "created": "20231014120240499",
+        "tags": "[[Tidme Manual]] ?",
+        "text": "{{||$:/plugins/tidme/read/ui/ViewTemplate/word}}",
+        "modified": "20231014120240499",
+        "title": "Annotate word/browser",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "! {{!!word}}\n\nhtml \n\nLocate the Tidme you just downloaded and open it in your  ''browser'' Try creating a new tiddler using the new tiddler  button in the sidebar",
+        "word": "browser",
+        "annotate-text": "browser",
+        "annotate-prefix": "n it in your ",
+        "annotate-suffix": "Try creating ",
+        "annotate-colour": "LightSkyBlue",
+        "difficulty": "3.9899999999999998",
+        "due": "20231020120244756",
+        "elapsed_days": "0",
+        "lapses": "0",
+        "last_review": "20231014120244756",
+        "reps": "1",
+        "scheduled_days": "6",
+        "stability": "5.8",
+        "state": "2"
+    }
+]

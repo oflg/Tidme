@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20231014121043672",
+        "tags": "[[Tidme Manual]] ?",
+        "text": "{{||$:/plugins/tidme/read/ui/ViewTemplate/word}}",
+        "modified": "20231014121043672",
+        "title": "Annotate word/downloaded",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "! {{!!word}}\n\nhtml \n\nLocate the Tidme you just  ''downloaded '' and open it in your browserTry creating a new tiddler using the new tiddler  button in the sidebar",
+        "word": "downloaded",
+        "annotate-text": "downloaded ",
+        "annotate-prefix": "dme you just ",
+        "annotate-suffix": "and open it i",
+        "annotate-colour": "LightSkyBlue"
+    }
+]
