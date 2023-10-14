@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/oflg/Tidme/compare/v1.9.2...v1.10.0) (2023-10-14)
+
+
+### Features
+
+* **annotate word:** automatically imported example sentences ([87b9118](https://github.com/oflg/Tidme/commit/87b9118ad838a14af8e3da95950e4c70fab96dff))
+* **annotate:** edited directly in the popup ([3e2ebea](https://github.com/oflg/Tidme/commit/3e2ebea3cb6f54d2caba7aa435453c785cd37915))
+
 ## [1.9.2](https://github.com/oflg/Tidme/compare/v1.9.1...v1.9.2) (2023-10-13)
 
 
