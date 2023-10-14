@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/oflg/Tidme/compare/v1.11.0...v1.12.0) (2023-10-14)
+
+
+### Features
+
+* **annotate:** Allow unlimited nesting ([71724b4](https://github.com/oflg/Tidme/commit/71724b4f92cd00f1ac6093973b94f0117aac16b1))
+
 # [1.11.0](https://github.com/oflg/Tidme/compare/v1.10.0...v1.11.0) (2023-10-14)
 
 
