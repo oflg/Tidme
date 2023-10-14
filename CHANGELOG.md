@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/oflg/Tidme/compare/v1.10.0...v1.11.0) (2023-10-14)
+
+
+### Features
+
+* **word color:** yellow: don't, Red: need to study ([888bda5](https://github.com/oflg/Tidme/commit/888bda515d6e6fe0b7162f1db9cf13b456fb3d6f))
+
 # [1.10.0](https://github.com/oflg/Tidme/compare/v1.9.2...v1.10.0) (2023-10-14)
 
 
