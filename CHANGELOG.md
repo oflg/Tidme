@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/oflg/Tidme/compare/v1.12.0...v1.12.1) (2023-10-14)
+
+
+### Bug Fixes
+
+* **word color:** Poor performance, removed ([72b0b63](https://github.com/oflg/Tidme/commit/72b0b63380e2dbb750548a3664e9acdd137e2f6a))
+
 # [1.12.0](https://github.com/oflg/Tidme/compare/v1.11.0...v1.12.0) (2023-10-14)
 
 
