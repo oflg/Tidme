@@ -1,3 +1,10 @@
+## [1.12.2](https://github.com/oflg/Tidme/compare/v1.12.1...v1.12.2) (2023-10-14)
+
+
+### Bug Fixes
+
+* **performance:** Try to fix performance issue ([fa4df8f](https://github.com/oflg/Tidme/commit/fa4df8f8bbe74843db04f62fdf3492f91e49a222))
+
 ## [1.12.1](https://github.com/oflg/Tidme/compare/v1.12.0...v1.12.1) (2023-10-14)
 
 
