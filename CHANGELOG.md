@@ -1,3 +1,17 @@
+# [1.13.0](https://github.com/oflg/Tidme/compare/v1.12.2...v1.13.0) (2023-10-15)
+
+
+### Bug Fixes
+
+* **annotate:** nested annotations not working ([65d3d1a](https://github.com/oflg/Tidme/commit/65d3d1a6de6b9ea3205f952d14f48b2f16276219))
+* **annotations:** invalid when Sticky titles is yes ([9a57a12](https://github.com/oflg/Tidme/commit/9a57a1269049972cf6f8c7bbd36ce0c7e02b0156))
+
+
+### Features
+
+* **annotation color:** change with rating ([5acbb9b](https://github.com/oflg/Tidme/commit/5acbb9b465e333e644b9f406bdcc6a50927e639e))
+* **word Highlight:** highlight only on first appearance ([54158ef](https://github.com/oflg/Tidme/commit/54158efbaf28315a8e2e956796250e89d100b609))
+
 ## [1.12.2](https://github.com/oflg/Tidme/compare/v1.12.1...v1.12.2) (2023-10-14)
 
 
