@@ -1,3 +1,10 @@
+## [1.13.4](https://github.com/oflg/Tidme/compare/v1.13.3...v1.13.4) (2023-10-16)
+
+
+### Bug Fixes
+
+* **Annotation:** Close popup after rating ([ad81f45](https://github.com/oflg/Tidme/commit/ad81f455d022532da0cc14dc34b24dc1e8a4d086))
+
 ## [1.13.3](https://github.com/oflg/Tidme/compare/v1.13.2...v1.13.3) (2023-10-16)
 
 
