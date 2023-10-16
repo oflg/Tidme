@@ -26,8 +26,8 @@
         "source": "https://github.com/oflg/Tidme-read",
         "title": "$:/plugins/tidme/read",
         "type": "application/json",
-        "version": "1.4.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "986e52b7fcc221bb272eca25764d6b08cb7dc930f726a6fcce63ddc64fd6f6c4",
+        "version": "1.4.1",
+        "Modern.TiddlyDev#SHA256-Hashed": "38febfa1e1b4f1816077f0458fcbfdf38681e6187851c4e77b03abb2ae0000ec",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
     },
