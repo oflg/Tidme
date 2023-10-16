@@ -62,11 +62,11 @@
     },
     "homepage": "https://github.com/oflg/Tidme#readme",
     "dependencies": {
-        "npm-check-updates": "^16.10.12",
-        "tiddlywiki": "latest",
-        "tiddlywiki-plugin-dev": "^0.0.39"
+        "tiddlywiki": "latest"
     },
     "devDependencies": {
+        "npm-check-updates": "^16.10.12",
+        "tiddlywiki-plugin-dev": "^0.0.39",
         "@modern-js/tsconfig": "^2.24.0",
         "@semantic-release/changelog": "latest",
         "@semantic-release/git": "latest",
