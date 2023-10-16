@@ -1,3 +1,10 @@
+## [1.13.3](https://github.com/oflg/Tidme/compare/v1.13.2...v1.13.3) (2023-10-16)
+
+
+### Bug Fixes
+
+* **Annotation:** Recursion errors caused by nesting ([41f28ff](https://github.com/oflg/Tidme/commit/41f28fff3989dca093b91d87cbba2e1caffb3f7f))
+
 ## [1.13.2](https://github.com/oflg/Tidme/compare/v1.13.1...v1.13.2) (2023-10-16)
 
 
