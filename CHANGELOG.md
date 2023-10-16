@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/oflg/Tidme/compare/v1.13.0...v1.13.1) (2023-10-16)
+
+
+### Bug Fixes
+
+* **annotate:** buttons are not in order ([70767dc](https://github.com/oflg/Tidme/commit/70767dc14c58bbe46c6bfd1adfb521230a561aa9))
+
 # [1.13.0](https://github.com/oflg/Tidme/compare/v1.12.2...v1.13.0) (2023-10-15)
 
 
