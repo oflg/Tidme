@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/oflg/Tidme/compare/v1.13.7...v1.14.0) (2023-10-17)
+
+
+### Features
+
+* **Annotation highlight:** read deck's excluded cards are excluded ([f54c89e](https://github.com/oflg/Tidme/commit/f54c89e6065739702c4db4fc17ad57b3cd4372a4))
+
 ## [1.13.7](https://github.com/oflg/Tidme/compare/v1.13.6...v1.13.7) (2023-10-17)
 
 
