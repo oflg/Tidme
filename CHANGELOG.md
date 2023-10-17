@@ -1,3 +1,10 @@
+## [1.13.6](https://github.com/oflg/Tidme/compare/v1.13.5...v1.13.6) (2023-10-17)
+
+
+### Bug Fixes
+
+* **annotation popup:** wrong location ([3a19e90](https://github.com/oflg/Tidme/commit/3a19e90fc9a227ef63515c5bf45555f3a000401f))
+
 ## [1.13.5](https://github.com/oflg/Tidme/compare/v1.13.4...v1.13.5) (2023-10-16)
 
 
