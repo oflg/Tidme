@@ -1,3 +1,10 @@
+## [1.14.1](https://github.com/oflg/Tidme/compare/v1.14.0...v1.14.1) (2023-10-17)
+
+
+### Bug Fixes
+
+* **annotation popup:** at the top of the selection ([dfe42d3](https://github.com/oflg/Tidme/commit/dfe42d369d2e9d3e705b368fd000dd0340c0c732))
+
 # [1.14.0](https://github.com/oflg/Tidme/compare/v1.13.7...v1.14.0) (2023-10-17)
 
 
