@@ -1,3 +1,10 @@
+## [1.13.7](https://github.com/oflg/Tidme/compare/v1.13.6...v1.13.7) (2023-10-17)
+
+
+### Bug Fixes
+
+* **Leech:** Threshold not correctly displayed ([b447d7f](https://github.com/oflg/Tidme/commit/b447d7f8ac1cc8706f9dc3387932d4a4e96e6d4c))
+
 ## [1.13.6](https://github.com/oflg/Tidme/compare/v1.13.5...v1.13.6) (2023-10-17)
 
 
