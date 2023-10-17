@@ -1,3 +1,10 @@
+## [1.14.2](https://github.com/oflg/Tidme/compare/v1.14.1...v1.14.2) (2023-10-17)
+
+
+### Bug Fixes
+
+* **Read twpub:** Show all chunks ([9fc35b4](https://github.com/oflg/Tidme/commit/9fc35b4dded96d8f23e3f8123d1cacd8c97286e6))
+
 ## [1.14.1](https://github.com/oflg/Tidme/compare/v1.14.0...v1.14.1) (2023-10-17)
 
 
