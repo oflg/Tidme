@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/oflg/Tidme/compare/v1.14.2...v1.15.0) (2023-10-18)
+
+
+### Features
+
+* **unfold card:** default rating Good -> Easy ([abc42ff](https://github.com/oflg/Tidme/commit/abc42ff15935c95a4ac2e01438a97b8a73cefe01))
+
 ## [1.14.2](https://github.com/oflg/Tidme/compare/v1.14.1...v1.14.2) (2023-10-17)
 
 
