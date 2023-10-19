@@ -1,0 +1,15 @@
+conversion-errors: 24
+converter-version: 0.1.0
+count-chunks: 29204
+count-images: 5
+cover-image: $:/plugins/twpub/ccffc821c7b52f6c/images/OEBPS/Images/cover.jpg
+cover-image-url: recipes%2Flibrary%2Ftiddlers%2F%2524%253A%252Fplugins%252Ftwpub%252Fccffc821c7b52f6c.jpeg
+description: 毛泽东选集
+epub-creator: 毛泽东
+epub-title: 毛泽东选集
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/ccffc821c7b52f6c
+type: application/json
+version: v0.0.1
