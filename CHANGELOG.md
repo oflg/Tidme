@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/oflg/Tidme/compare/v1.15.0...v1.16.0) (2023-10-19)
+
+
+### Features
+
+* **unfold card:** Can be scored to select more schedules ([7103aed](https://github.com/oflg/Tidme/commit/7103aedfebcc3b676bf48c6ff26cc2e2ba67b415))
+
 # [1.15.0](https://github.com/oflg/Tidme/compare/v1.14.2...v1.15.0) (2023-10-18)
 
 
