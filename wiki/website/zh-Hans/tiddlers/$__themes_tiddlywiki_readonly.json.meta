@@ -1,9 +1,0 @@
-author: JeremyRuston
-core-version: >=5.0.0
-dependents: $:/themes/tiddlywiki/snowwhite
-description: Hides the ability to edit tiddlers
-name: ReadOnly
-plugin-type: theme
-title: $:/themes/tiddlywiki/readonly
-type: application/json
-version: 5.2.2

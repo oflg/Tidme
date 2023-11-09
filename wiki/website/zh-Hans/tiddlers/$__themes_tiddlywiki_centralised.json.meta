@@ -1,9 +1,0 @@
-author: JeremyRuston
-core-version: >=5.0.0
-dependents: $:/themes/tiddlywiki/snowwhite
-description: Centralises the story river
-name: Centralised
-plugin-type: theme
-title: $:/themes/tiddlywiki/centralised
-type: application/json
-version: 5.2.2

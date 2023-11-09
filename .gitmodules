@@ -10,3 +10,9 @@
 [submodule "src/zh-Hans"]
 	path = src/zh-Hans
 	url = https://github.com/oflg/Tidme-zh-Hans.git
+[submodule "wiki/website/zh-Hans"]
+	path = wiki/website/zh-Hans
+	url = https://github.com/oflg/Tidme-website-zh-Hans.git
+[submodule "wiki/manual/zh-Hans"]
+	path = wiki/manual/zh-Hans
+	url = https://github.com/oflg/Tidme-manual-zh-Hans.git

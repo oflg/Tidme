@@ -1,7 +1,0 @@
-code-body: yes
-list-before: $:/config/StoryTiddlerTemplateFilters/default
-tags: $:/tags/StoryTiddlerTemplateFilter
-title: $:/_tw5.com/CustomStoryTiddlerTemplateDemo/Filter
-type: text/vnd.tiddlywiki
-
-[tag[$:/tags/TiddlerList]then[$:/_tw5.com/CustomStoryTiddlerTemplateDemo/Template]]
