@@ -16,3 +16,12 @@
 [submodule "wiki/manual/zh-Hans"]
 	path = wiki/manual/zh-Hans
 	url = https://github.com/oflg/Tidme-manual-zh-Hans.git
+[submodule "wiki/website/fr-FR"]
+	path = wiki/website/fr-FR
+	url = https://github.com/papiche/Tidme-website-fr-FR.git
+[submodule "wiki/manual/fr-FR"]
+	path = wiki/manual/fr-FR
+	url = https://github.com/papiche/Tidme-manual-fr-FR.git
+[submodule "src/fr-FR"]
+	path = src/fr-FR
+	url = https://github.com/papiche/Tidme-fr-FR.git
