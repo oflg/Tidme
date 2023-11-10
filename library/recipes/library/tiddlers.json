@@ -2,6 +2,22 @@
     {
         "author": "oflg",
         "core-version": ">=5.3.0",
+        "dependents": "$:/plugins/tidme/fsrs4tw",
+        "description": "Français",
+        "list": "readme license",
+        "name": "Tidme Languages",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/Tidme",
+        "title": "$:/tidme/languages/fr-FR",
+        "type": "application/json",
+        "version": "1.4.6",
+        "Modern.TiddlyDev#SHA256-Hashed": "497f13627104025b2cf8fe50a9605ea7870144024eb02d2462780c9d4dda8d03",
+        "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/#Included%20plugins]].\n\nUn tutoriel est disponible à l'adresse suivante : [[Tidme Manual|https://oflg.github.io/Tidme/manual/fr-FR]] pour des tutoriels d'installation et d'utilisation.\n",
+        "requires-reload": "no"
+    },
+    {
+        "author": "oflg",
+        "core-version": ">=5.3.0",
         "dependents": "$:/plugins/tiddlywiki/confetti $:/plugins/tiddlywiki/browser-sniff",
         "description": "TiddlyWiki-based memory programme using advanced FSRS algorithm",
         "list": "readme license",
