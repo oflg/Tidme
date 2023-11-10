@@ -58,6 +58,7 @@ _✨ 终身知识，深入脑海  ✨_
 * [@L-M-Sherlock](https://github.com/L-M-Sherlock)
 * [@oeyoews](https://github.com/oeyoews)
 * [@Zacharia2](https://github.com/Zacharia2)
+* [@papiche](https://github.com/papiche)
 
 ## ⭐亮星
 

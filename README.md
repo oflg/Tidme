@@ -58,6 +58,7 @@ Many thanks to the following friends who have contributed to Tidme!
 * [@L-M-Sherlock](https://github.com/L-M-Sherlock)
 * [@oeyoews](https://github.com/oeyoews)
 * [@Zacharia2](https://github.com/Zacharia2)
+* [@papiche](https://github.com/papiche)
 
 ## ⭐Star
 
