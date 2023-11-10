@@ -12,6 +12,13 @@
 
 * **languages:** add fr-FR ([1c1e689](https://github.com/oflg/Tidme/commit/1c1e6897808bc6371fac4dcd4ae7f78dfa8e72bf))
 
+# [1.17.0](https://github.com/oflg/Tidme/compare/v1.16.0...v1.17.0) (2023-11-10)
+
+
+### Features
+
+* **languages:** add fr-FR ([1c1e689](https://github.com/oflg/Tidme/commit/1c1e6897808bc6371fac4dcd4ae7f78dfa8e72bf))
+
 # [1.16.0](https://github.com/oflg/Tidme/compare/v1.15.0...v1.16.0) (2023-10-19)
 
 
