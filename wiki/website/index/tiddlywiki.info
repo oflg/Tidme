@@ -11,7 +11,8 @@
     ],
     "languages": [
         "zh-Hans",
-        "fr-FR"
+        "fr-FR",
+        "de-DE"
     ],
     "build": {}
 }
