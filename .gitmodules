@@ -25,3 +25,6 @@
 [submodule "src/fr-FR"]
 	path = src/fr-FR
 	url = https://github.com/papiche/Tidme-fr-FR.git
+[submodule "wiki/website/de-DE"]
+	path = wiki/website/de-DE
+	url = https://github.com/MehrzweckMandala/Tidme-website-de-DE.git
