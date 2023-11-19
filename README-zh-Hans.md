@@ -60,6 +60,7 @@ _✨ 终身知识，深入脑海 ✨_
 * [@oeyoews](https://github.com/oeyoews)
 * [@Zacharia2](https://github.com/Zacharia2)
 * [@papiche](https://github.com/papiche)
+* [@MehrzweckMandala](https://github.com/MehrzweckMandala)
 
 ## ⭐亮星
 
