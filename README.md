@@ -8,7 +8,7 @@
 
 # Tidme
 
-_✨  Lifelong knowledge, deep in mind ✨_
+_✨ Lifelong knowledge, deep in mind ✨_
 
 </div>
 
@@ -31,6 +31,7 @@ Tidme uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incre
 
 * [English](https://github.com/oflg/Tidme/blob/master/README.md)
 * [中文简体](https://github.com/oflg/Tidme/blob/master/README-zh-Hans.md)
+* [Français](https://github.com/oflg/Tidme/blob/master/README-fr-FR.md)
 
 ### Translations
 

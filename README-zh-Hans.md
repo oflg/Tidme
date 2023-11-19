@@ -8,7 +8,7 @@
 
 # 墨屉
 
-_✨ 终身知识，深入脑海  ✨_
+_✨ 终身知识，深入脑海 ✨_
 
 </div>
 
@@ -31,6 +31,7 @@ _✨ 终身知识，深入脑海  ✨_
 
 * [中文简体](https://github.com/oflg/Tidme/blob/master/README-zh-Hans.md)
 * [English](https://github.com/oflg/Tidme/blob/master/README.md)
+* [Français](https://github.com/oflg/Tidme/blob/master/README-fr-FR.md)
 
 ### 翻译
 
