@@ -26,7 +26,7 @@
         "publish/manual/index": "tiddlywiki-plugin-dev publish --offline --wiki ./wiki/manual/index --exclude-plugin [prefix[$:/tidme/languages/]] --html manual/index.html",
         "publish/manual/zh-Hans": "tiddlywiki-plugin-dev publish --offline --wiki ./wiki/manual/zh-Hans --exclude-plugin [prefix[$:/tidme/languages/]!prefix[$:/tidme/languages/zh-Hans]] --html manual/zh-Hans.html",
         "publish/manual/fr-FR": "tiddlywiki-plugin-dev publish --offline --wiki ./wiki/manual/fr-FR --exclude-plugin [prefix[$:/tidme/languages/]!prefix[$:/tidme/languages/fr-FR]] --html manual/fr-FR.html",
-        "publish": "npm run clean && npm run publish/website/index && npm run publish/website/zh-Hans && npm run publish/website/fr-FR && npm run publish/empty/index && npm run publish/empty/zh-Hans && npm run publish/empty/fr-FR && npm run publish/manual/index && npm run publish/manual/zh-Hans&& npm run publish/manual/fr-FR && tiddlywiki-plugin-dev publish --html full.html",
+        "publish": "npm run clean && npm run publish/website/index && npm run publish/website/zh-Hans && npm run publish/website/fr-FR && npm run publish/website/de-DE && npm run publish/empty/index && npm run publish/empty/zh-Hans && npm run publish/empty/fr-FR && npm run publish/manual/index && npm run publish/manual/zh-Hans&& npm run publish/manual/fr-FR && tiddlywiki-plugin-dev publish --html full.html",
         "semantic-release": "semantic-release"
     },
     "engines": {

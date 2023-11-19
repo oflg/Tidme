@@ -60,6 +60,7 @@ Many thanks to the following friends who have contributed to Tidme!
 * [@oeyoews](https://github.com/oeyoews)
 * [@Zacharia2](https://github.com/Zacharia2)
 * [@papiche](https://github.com/papiche)
+* [@MehrzweckMandala](https://github.com/MehrzweckMandala)
 
 ## ⭐Star
 
