@@ -17,7 +17,7 @@
     },
     {
         "author": "oflg",
-        "core-version": ">=5.3.0",
+        "core-version": ">=5.3.2",
         "dependents": "$:/plugins/tiddlywiki/confetti $:/plugins/tiddlywiki/browser-sniff",
         "description": "TiddlyWiki-based memory programme using advanced FSRS algorithm",
         "list": "readme license",
@@ -26,8 +26,8 @@
         "source": "https://github.com/oflg/Tidme",
         "title": "$:/plugins/tidme/fsrs4tw",
         "type": "application/json",
-        "version": "1.5.4",
-        "Modern.TiddlyDev#SHA256-Hashed": "3bc6745197a771c318b096c3a796ffe0691720e2a8587d5e51a15fc6c5729986",
+        "version": "1.5.5",
+        "Modern.TiddlyDev#SHA256-Hashed": "17aa5964fcbcbd24514f2115b0f67a13fa3d69c44b21745cc676e69d490a1ef7",
         "readme": "Installation and usage tutorial is available at [[Tidme Manual|https://oflg.github.io/Tidme/manual/]].\n\n可在 [[墨屉手册|https://oflg.github.io/Tidme/manual/zh-Hans]] 查看安装使用教程。",
         "requires-reload": "yes"
     },
