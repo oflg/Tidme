@@ -1,3 +1,10 @@
+## [1.17.1](https://github.com/oflg/Tidme/compare/v1.17.0...v1.17.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* **`<<C>>` macro :** ids of tiddlers interact with each other ([2a9fa05](https://github.com/oflg/Tidme/commit/2a9fa053ac853b56ce8d23cb0d647e012a39c8e6))
+
 # [1.17.0](https://github.com/oflg/Tidme/compare/v1.16.0...v1.17.0) (2023-11-10)
 
 
