@@ -25,6 +25,11 @@ _✨ Lifelong knowledge, deep in mind ✨_
 
 Tidme uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) concepts to make it your powerful second brain for acquiring lifelong knowledge.
 
+## ⬇️Installation
+
+* Introduction is available at [Tidme website](https://oflg.github.io/Tidme/).
+* Installation and usage manual is available at [Tidme Manual](https://oflg.github.io/Tidme/manual/).
+
 ## 🎏Languages
 
 ### Supported Languages
@@ -35,12 +40,7 @@ Tidme uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incre
 
 ### Translations
 
-Welcome to translate Tidme into your language, If you encounter problems, please [Open Issues](https://github.com/oflg/Tidme/issues).
-
-## ⬇️Installation
-
-* Introduction is available at [Tidme website](https://oflg.github.io/Tidme/).
-* Installation and usage manual is available at [Tidme Manual](https://oflg.github.io/Tidme/manual/).
+Welcome to translate Tidme into your language, If you encounter problems, please [Open Issues](https://github.com/oflg/Tidme/issues?q=label%3Atranslation).
 
 ## ⌨️Development
 

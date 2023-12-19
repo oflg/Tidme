@@ -25,6 +25,10 @@ _✨ Un savoir qui dure toute la vie, au plus profond de votre esprit ✨_
 
 Adoptant le concept avancé d'[[Apprentissage progressif|https://help.supermemo.org/wiki/Incremental_learning]], [[Tidme]] est le deuxième cerveau qui vous aide à acquérir des connaissances tout au long de votre vie.
 
+## ⬇️Installation
+
+* Introduction disponible sur le [site web de Tidme] (https://oflg.github.io/Tidme/fr-FR).
+* Installation et manuel d'utilisation disponibles sur [Manuel du Tidme](https://oflg.github.io/Tidme/manual/fr-FR).
 
 ## 🎏Langues
 
@@ -36,12 +40,7 @@ Adoptant le concept avancé d'[[Apprentissage progressif|https://help.supermemo.
 
 ### Traductions
 
-Bienvenue pour traduire Tidme dans votre langue. Si vous rencontrez des problèmes, veuillez [Open Issues] (https://github.com/oflg/Tidme/issues).
-
-## ⬇️Installation
-
-* Introduction disponible sur le [site web de Tidme] (https://oflg.github.io/Tidme/fr-FR).
-* Installation et manuel d'utilisation disponibles sur [Manuel du Tidme](https://oflg.github.io/Tidme/manual/fr-FR).
+Bienvenue pour traduire Tidme dans votre langue. Si vous rencontrez des problèmes, veuillez [Open Issues] (https://github.com/oflg/Tidme/issues?q=label%3Atranslation).
 
 ## ⌨️Développement
 
