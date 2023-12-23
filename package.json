@@ -75,7 +75,7 @@
     "devDependencies": {
         "npm-check-updates": "^16.14.12",
         "tiddlywiki-plugin-dev": "^0.0.39",
-        "@modern-js/tsconfig": "^2.42.2",
+        "@modern-js/tsconfig": "^2.43.0",
         "@semantic-release/changelog": "latest",
         "@semantic-release/git": "latest",
         "@types/node": "^20.10.5",
