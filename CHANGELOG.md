@@ -1,3 +1,10 @@
+## [1.17.2](https://github.com/oflg/Tidme/compare/v1.17.1...v1.17.2) (2023-12-24)
+
+
+### Bug Fixes
+
+* **preview caption:** error after changing preview type ([0ca1926](https://github.com/oflg/Tidme/commit/0ca19264ed9a7527f8595a9e938f5dec7c2de7b0))
+
 ## [1.17.1](https://github.com/oflg/Tidme/compare/v1.17.0...v1.17.1) (2023-12-18)
 
 
