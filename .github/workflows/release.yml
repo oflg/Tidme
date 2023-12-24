@@ -1,8 +1,10 @@
 name: Release
+
 on:
   push:
     branches:
       - master
+
 jobs:
   release:
     name: Release
@@ -16,10 +18,25 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 'lts/*'
+
+      - name: Clone git submodule
+        run: git submodule update --init
+
       - name: Install dependencies
         run: npm ci
+
+      - name: Build library and static website
+        run: npm run publish
+
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
